@@ -23,5 +23,7 @@
   ],
   "categories": ["swe", "frontend", "data", "quant", "pm", "hardware", "other"],
   "max_age_days": 3,
+  "readme_days": 30,
+  "readme_rows_per_section": 100,
   "forget_after_days": 180
 }

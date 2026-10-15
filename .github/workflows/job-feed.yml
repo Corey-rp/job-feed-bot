@@ -39,10 +39,10 @@ jobs:
           WEBHOOK_NEWGRAD_SWE: ${{ secrets.WEBHOOK_NEWGRAD_SWE }}
         run: python bot.py
 
-      - name: Save seen list
+      - name: Save seen list and README
         run: |
           git config user.name "job-feed-bot"
           git config user.email "job-feed-bot@users.noreply.github.com"
-          git add seen.json
+          git add seen.json README.md
           git diff --cached --quiet || git commit -m "Update seen jobs"
           git push

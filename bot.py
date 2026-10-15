@@ -187,6 +187,137 @@ def post_to_discord(webhook, embeds):
     return True
 
 
+README_PATH = os.path.join(ROOT, "README.md")
+CATEGORY_EMOJI = {"swe": "💻", "frontend": "🎨", "data": "🤖", "quant": "📈", "pm": "📱", "hardware": "🔧", "other": "🧩"}
+
+
+def md_cell(text, limit=None):
+    text = re.sub(r"\s+", " ", str(text)).strip().replace("|", "\\|")
+    if limit and len(text) > limit:
+        text = text[: limit - 1].rstrip() + "…"
+    return text
+
+
+def age_label(posted, now):
+    if not posted:
+        return "-"
+    days = max(0, (now - posted) // 86400)
+    return f"{days}d" if days < 30 else f"{days // 30}mo"
+
+
+def badge(label, value, color):
+    label_q = label.replace(" ", "%20").replace("-", "--")
+    return f"![{label}](https://img.shields.io/badge/{label_q}-{value}-{color})"
+
+
+def write_readme(rows, config, now):
+    """Rebuilds README.md as a live job board."""
+    window = config.get("readme_days", 30) * 86400
+    per_section = config.get("readme_rows_per_section", 100)
+    enabled = config.get("categories", list(CATEGORY_LABELS))
+    recent = [r for r in rows if r["category"] in enabled and (not r["posted"] or now - r["posted"] <= window)]
+    recent.sort(key=lambda r: (-r["posted"], r["company"].lower()))
+
+    companies = {r["company"].lower() for r in recent}
+    today = sum(1 for r in recent if r["posted"] and now - r["posted"] < 86400)
+    updated = datetime.fromtimestamp(now, timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+
+    repo = os.getenv("GITHUB_REPOSITORY", "Corey-rp/job-feed-bot")
+    out = [
+        '<div align="center">',
+        "",
+        "# 🎯 Internships & New Grad Job Board",
+        "",
+        "**Every tech internship and new grad role from the top GitHub job lists, in one place.**",
+        "",
+        " ".join([
+            badge("Open Roles", len(recent), "brightgreen"),
+            badge("Posted Today", today, "orange"),
+            badge("Companies", len(companies), "blue"),
+            f"![Stars](https://img.shields.io/github/stars/{repo}?style=flat&color=yellow)",
+        ]),
+        "",
+        f"_Last updated: {updated}_",
+        "",
+        "</div>",
+        "",
+        "## About",
+        "",
+        "> ⭐ Star this repo if it helps you",
+        "",
+        "I'm a CS senior graduating in December 2026, and I got tired of checking a bunch of different repos every day "
+        "just to see what was new. So I built this. It pulls the major internship and new grad lists together, removes "
+        "the duplicates, and posts new roles to my Discord as soon as they show up. It isn't only SWE either: front end, "
+        "data/AI, quant, product, and hardware all get their own section.",
+        "",
+        f"The table updates automatically every 15 minutes and shows roles posted in the last {window // 86400} days, newest first.",
+        "",
+        "**Want alerts in your own Discord server?** Fork this repo and follow [SETUP.md](SETUP.md). It takes about 5 minutes and it's free.",
+        "",
+        "🛂 = offers visa sponsorship · 🇺🇸 = requires U.S. citizenship",
+        "",
+        "## Jump to",
+        "",
+    ]
+    sections = []
+    for job_type in ("intern", "newgrad"):
+        for cat in enabled:
+            section_rows = [r for r in recent if r["type"] == job_type and r["category"] == cat]
+            if section_rows:
+                sections.append((job_type, cat, section_rows))
+
+    for job_type in ("intern", "newgrad"):
+        links = []
+        for t, cat, section_rows in sections:
+            if t == job_type:
+                anchor = f"{t}-{cat}"
+                links.append(f"[{CATEGORY_EMOJI[cat]} {CATEGORY_LABELS[cat]} ({len(section_rows)})](#{anchor})")
+        if links:
+            out.append(f"**{TYPE_LABELS[job_type]}s:** " + " · ".join(links))
+            out.append("")
+
+    current_type = None
+    for t, cat, section_rows in sections:
+        if t != current_type:
+            current_type = t
+            out += ["---", "", f"# {'🎓' if t == 'intern' else '🚀'} {TYPE_LABELS[t]}s", ""]
+        out += [
+            f'<a id="{t}-{cat}"></a>',
+            "",
+            f"## {CATEGORY_EMOJI[cat]} {CATEGORY_LABELS[cat]} {TYPE_LABELS[t]}s",
+            "",
+            "| Company | Role | Location | Age |",
+            "|---|---|---|---|",
+        ]
+        for r in section_rows[:per_section]:
+            locs = r["locations"]
+            loc = md_cell(", ".join(locs[:2]) + (f" +{len(locs) - 2}" if len(locs) > 2 else ""), 45) or "-"
+            flag = " 🛂" if "offers sponsorship" in r["sponsorship"].lower() else (" 🇺🇸" if "citizen" in r["sponsorship"].lower() else "")
+            out.append(
+                f"| **{md_cell(r['company'], 40)}** | [{md_cell(r['title'], 80)}]({r['url'].replace(')', '%29')}){flag} | {loc} | {age_label(r['posted'], now)} |"
+            )
+        if len(section_rows) > per_section:
+            out.append("")
+            out.append(f"_+{len(section_rows) - per_section} more not shown_")
+        out.append("")
+
+    out += [
+        "---",
+        "",
+        "## Sources",
+        "",
+        "All credit goes to the people who maintain these lists. Go star them too:",
+        "",
+    ] + [f"- [{s['name']}](https://github.com/{s['url'].split('githubusercontent.com/')[1].split('/dev/')[0]})" for s in config["sources"]] + [
+        "",
+        "Found a broken link or a closed role? Open an issue.",
+        "",
+    ]
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+    log(f"README updated: {len(recent)} roles, {len(companies)} companies")
+
+
 def load_seen():
     if os.path.exists(SEEN_PATH):
         with open(SEEN_PATH) as f:
@@ -210,6 +341,7 @@ def main():
     max_age = config.get("max_age_days", 3) * 86400
     enabled = set(config.get("categories", list(CATEGORY_LABELS)))
 
+    board = {}  # name_key -> row for the README table
     queue = {}  # webhook -> list of embeds
     counts = {}
     skipped_no_webhook = 0
@@ -225,6 +357,17 @@ def main():
             if not job.get("active", True) or not job.get("is_visible", True) or not job.get("url"):
                 continue
             keys = job_keys(job)
+            if keys[1] not in board:
+                board[keys[1]] = {
+                    "type": source["type"],
+                    "category": categorize(job),
+                    "company": job.get("company_name", ""),
+                    "title": job.get("title", ""),
+                    "url": job.get("url", ""),
+                    "locations": job.get("locations") or [],
+                    "posted": to_epoch(job.get("date_posted")),
+                    "sponsorship": job.get("sponsorship") or "",
+                }
             if any(k in seen["keys"] for k in keys):
                 continue
             for k in keys:
@@ -265,6 +408,8 @@ def main():
                 post_to_discord(webhook, embeds)
 
     save_seen(seen, config.get("forget_after_days", 180))
+    if board:
+        write_readme(list(board.values()), config, now)
     log("Done")
 
 
