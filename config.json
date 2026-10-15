@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "name": "SimplifyJobs Summer 2027 Internships",
+      "type": "intern",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+    },
+    {
+      "name": "SimplifyJobs New Grad Positions",
+      "type": "newgrad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+    },
+    {
+      "name": "vanshb03 Summer 2027 Internships",
+      "type": "intern",
+      "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json"
+    },
+    {
+      "name": "vanshb03 New Grad 2027",
+      "type": "newgrad",
+      "url": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json"
+    }
+  ],
+  "categories": ["swe", "frontend", "data", "quant", "pm", "hardware", "other"],
+  "max_age_days": 3,
+  "forget_after_days": 180
+}

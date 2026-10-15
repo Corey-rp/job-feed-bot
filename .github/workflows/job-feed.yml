@@ -1,0 +1,48 @@
+name: Job Feed
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay a few minutes)
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-feed
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post new roles
+        env:
+          WEBHOOK_DEFAULT: ${{ secrets.WEBHOOK_DEFAULT }}
+          WEBHOOK_SWE: ${{ secrets.WEBHOOK_SWE }}
+          WEBHOOK_FRONTEND: ${{ secrets.WEBHOOK_FRONTEND }}
+          WEBHOOK_DATA: ${{ secrets.WEBHOOK_DATA }}
+          WEBHOOK_QUANT: ${{ secrets.WEBHOOK_QUANT }}
+          WEBHOOK_PM: ${{ secrets.WEBHOOK_PM }}
+          WEBHOOK_HARDWARE: ${{ secrets.WEBHOOK_HARDWARE }}
+          WEBHOOK_OTHER: ${{ secrets.WEBHOOK_OTHER }}
+          WEBHOOK_INTERN: ${{ secrets.WEBHOOK_INTERN }}
+          WEBHOOK_NEWGRAD: ${{ secrets.WEBHOOK_NEWGRAD }}
+          WEBHOOK_INTERN_SWE: ${{ secrets.WEBHOOK_INTERN_SWE }}
+          WEBHOOK_NEWGRAD_SWE: ${{ secrets.WEBHOOK_NEWGRAD_SWE }}
+        run: python bot.py
+
+      - name: Save seen list
+        run: |
+          git config user.name "job-feed-bot"
+          git config user.email "job-feed-bot@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || git commit -m "Update seen jobs"
+          git push
