@@ -4,9 +4,9 @@
 
 **Every tech internship and new grad role from the top GitHub job lists, in one place.**
 
-![Open Roles](https://img.shields.io/badge/Open%20Roles-2773-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-64-orange) ![Companies](https://img.shields.io/badge/Companies-985-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
+![Open Roles](https://img.shields.io/badge/Open%20Roles-2772-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-64-orange) ![Companies](https://img.shields.io/badge/Companies-985-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
 
-_Last updated: Oct 17, 2026 19:23 UTC_
+_Last updated: Oct 17, 2026 21:35 UTC_
 
 </div>
 
@@ -26,7 +26,7 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 
 **Internships:** [💻 Software Engineering (585)](#intern-swe) · [🎨 Front End (10)](#intern-frontend) · [🤖 Data / AI / ML (756)](#intern-data) · [📈 Quant (52)](#intern-quant) · [📱 Product (92)](#intern-pm) · [🔧 Hardware (423)](#intern-hardware) · [🧩 Other (29)](#intern-other)
 
-**New Grads:** [💻 Software Engineering (300)](#newgrad-swe) · [🎨 Front End (6)](#newgrad-frontend) · [🤖 Data / AI / ML (232)](#newgrad-data) · [📈 Quant (21)](#newgrad-quant) · [📱 Product (44)](#newgrad-pm) · [🔧 Hardware (223)](#newgrad-hardware)
+**New Grads:** [💻 Software Engineering (299)](#newgrad-swe) · [🎨 Front End (6)](#newgrad-frontend) · [🤖 Data / AI / ML (232)](#newgrad-data) · [📈 Quant (21)](#newgrad-quant) · [📱 Product (44)](#newgrad-pm) · [🔧 Hardware (223)](#newgrad-hardware)
 
 ---
 
@@ -656,7 +656,7 @@ _+323 more not shown_
 | **Galatea Associates** | [Entry-Level Financial Software Consultant](https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply) | St. Petersburg, FL | 3d |
 | **Johns Hopkins Applied Physics Laboratory** | [Graduate - Engineer/Analyst for ISRT and BMC2 Applications](https://careers.jhuapl.edu/jobs/59529?icims=1) | Laurel, MD | 3d |
 | **AbbVie** | [Integration Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990016088967) | North Chicago, IL | 3d |
-| **Monti Inc** | [Associate Software Engineer - Intelligence Systems](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611) | Cincinnati, OH | 3d |
+| **Monti Inc** | [Associate Software Engineer - Intelligence Systems](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611) | Cincinnati, OH | 4d |
 | **Sigma Defense** | [Software Engineer](https://apply.workable.com/sigmadefense/j/F207C966C1/apply) | Fairmont, WV | 4d |
 | **Liberty Mutual Canada** | [Associate Software Developer - Node.js & Python](https://apply.workable.com/liberty-mutual-canada/j/A60F74CB9D/apply) | Toronto, ON, Canada | 4d |
 | **Boeing** | [Entry-Level Software Engineer Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1) | Richardson, TX | 4d |
@@ -665,7 +665,6 @@ _+323 more not shown_
 | **Northrop Grumman** | [Graduate Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Evergreen-Cyber-and-Intelligence-Software-Engineering-Graduate_R10255705) | Cheltenham, UK | 4d |
 | **NVIDIA** | [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | Santa Clara, CA | 4d |
 | **RTX** | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283) | Marlborough, MA | 4d |
-| **Thales** | [Graduate AI Engineer](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) | Orlando, FL | 4d |
 | **Momentum Engineering** | [Software Engineer 0](https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e) | Annapolis Junction, MD | 4d |
 | **Datacor** | [Software Engineer](https://job-boards.greenhouse.io/datacor/jobs/5257433007) | Remote in USA | 4d |
 | **Brillio** | [Full Stack AI Engineer](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply) | Coppell, TX | 4d |
@@ -680,8 +679,9 @@ _+323 more not shown_
 | **Kainos** | [Technologist New Grad](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Graduate-Technologist--Belfast----August-2027-Start-Date_JR_18544) | Belfast, UK | 5d |
 | **Kainos** | [Graduate Technologist](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Graduate-Technologist--L-Derry----May-2027-Start-Date_JR_18545) | Londonderry, UK | 5d |
 | **Kainos** | [Graduate Technologist](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Graduate-Technologist--Birmingham----September-2027-Start-Date_JR_18546) | Birmingham, UK | 5d |
+| **NVIDIA** | [Software Engineer New Grad - DL Kernel Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | Santa Clara, CA | 6d |
 
-_+200 more not shown_
+_+199 more not shown_
 
 <a id="newgrad-frontend"></a>
 
