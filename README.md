@@ -4,9 +4,9 @@
 
 **Every tech internship and new grad role from the top GitHub job lists, in one place.**
 
-![Open Roles](https://img.shields.io/badge/Open%20Roles-4100-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-275-orange) ![Companies](https://img.shields.io/badge/Companies-1168-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
+![Open Roles](https://img.shields.io/badge/Open%20Roles-4087-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-13-orange) ![Companies](https://img.shields.io/badge/Companies-1163-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
 
-_Last updated: Nov 02, 2026 02:30 UTC_
+_Last updated: Nov 02, 2026 09:58 UTC_
 
 </div>
 
@@ -24,9 +24,9 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 
 ## Jump to
 
-**Internships:** [💻 Software Engineering (975)](#intern-swe) · [🎨 Front End (40)](#intern-frontend) · [🤖 Data / AI / ML (1087)](#intern-data) · [📈 Quant (53)](#intern-quant) · [📱 Product (113)](#intern-pm) · [🔧 Hardware (454)](#intern-hardware) · [🧩 Other (89)](#intern-other)
+**Internships:** [💻 Software Engineering (969)](#intern-swe) · [🎨 Front End (40)](#intern-frontend) · [🤖 Data / AI / ML (1085)](#intern-data) · [📈 Quant (53)](#intern-quant) · [📱 Product (112)](#intern-pm) · [🔧 Hardware (453)](#intern-hardware) · [🧩 Other (89)](#intern-other)
 
-**New Grads:** [💻 Software Engineering (509)](#newgrad-swe) · [🎨 Front End (27)](#newgrad-frontend) · [🤖 Data / AI / ML (393)](#newgrad-data) · [📈 Quant (27)](#newgrad-quant) · [📱 Product (50)](#newgrad-pm) · [🔧 Hardware (275)](#newgrad-hardware) · [🧩 Other (8)](#newgrad-other)
+**New Grads:** [💻 Software Engineering (509)](#newgrad-swe) · [🎨 Front End (27)](#newgrad-frontend) · [🤖 Data / AI / ML (389)](#newgrad-data) · [📈 Quant (27)](#newgrad-quant) · [📱 Product (50)](#newgrad-pm) · [🔧 Hardware (276)](#newgrad-hardware) · [🧩 Other (8)](#newgrad-other)
 
 ---
 
@@ -38,54 +38,56 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **KnowBe4** | [Software Engineer Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) | Clearwater, FL | 0d |
+| **Microsoft** | [Explore Program Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556925823) | Redmond, WA | 0d |
+| **Roku** | [Software Engineer Intern - AI Engineering](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) | San Jose, CA | 0d |
+| **Microsoft** | [First-Year Explore Program Engineering Intern](https://go.vansh.nyc/199) | Redmond, WA | 0d |
 | **Siemens Digital Industries Software** | [Strategic Student Program Digital Enterprise Software Applications Intern](https://go.vansh.nyc/18U) | Charlotte, MI | 0d |
 | **Siemens Digital Industries Software** | [Strategic Student Program Digital Enterprise Software Applications Intern](https://go.vansh.nyc/18V) | Chicago, IL | 0d |
 | **TRG** | [Full Stack Application Developer Intern](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) | Dallas, TX | 0d |
-| **TikTok** | [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/17W) | Seattle, WA | 0d |
-| **TikTok** | [Software Engineer Intern, TikTok Search Architecture](https://go.vansh.nyc/184) | San Jose, CA | 0d |
-| **TikTok** | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18g) | Seattle, WA | 0d |
-| **TikTok** | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18i) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18o) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Search Architecture](https://go.vansh.nyc/18q) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Recommendation Infra, Performance Efficiency](https://go.vansh.nyc/18s) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18u) | Seattle, WA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Global E-Commerce Search Infrastructure](https://go.vansh.nyc/18y) | Seattle, WA | 0d |
-| **TikTok** | [Software Engineer Intern, Foundation Platform](https://go.vansh.nyc/18C) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, Media Engine](https://go.vansh.nyc/18D) | San Jose, CA | 0d |
-| **TikTok** | [Backend Software Engineer Intern, Creation Platform](https://go.vansh.nyc/18E) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Lead Ads](https://go.vansh.nyc/18H) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Model Infrastructure](https://go.vansh.nyc/18Z) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Platform Efficiency](https://go.vansh.nyc/190) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, Global Traffic Architecture](https://go.vansh.nyc/143) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, Traffic Infrastructure](https://go.vansh.nyc/146) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Project Intern, Developer Infrastructure](https://go.vansh.nyc/14a) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, Relational Database](https://go.vansh.nyc/14d) | San Jose, CA | 0d |
-| **ByteDance** | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14g) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14i) | Seattle, WA | 0d |
-| **ByteDance** | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j) | New York, NY | 0d |
-| **ByteDance** | [Software Engineer Intern, Global Payment - Risk & Compliance](https://go.vansh.nyc/14k) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, CIS Knowledge Bank](https://go.vansh.nyc/14l) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, Global Payment](https://go.vansh.nyc/14n) | San Jose, CA | 0d |
-| **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q) | Seattle, WA | 0d |
-| **ByteDance** | [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) | San Jose, CA | 0d |
-| **ByteDance** | [Self-Built Engineer Intern, CDN Platform](https://go.vansh.nyc/14w) | San Jose, CA | 0d |
-| **ByteDance** | [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x) | San Jose, CA | 0d |
-| **ByteDance** | [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Intern, Global Payment Infra and SRE](https://go.vansh.nyc/14z) | San Jose, CA | 0d |
-| **ByteDance** | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | 0d |
-| **ByteDance** | [Security Engineering Project Intern, Watermark](https://go.vansh.nyc/15F) | San Jose, CA | 0d |
-| **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/15G) | San Jose, CA | 0d |
-| **ByteDance** | [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L) | San Jose, CA | 0d |
-| **ByteDance** | [Software Development Engineer Intern, Network Automation](https://go.vansh.nyc/17M) | San Jose, CA | 0d |
+| **TikTok** | [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/17W) | Seattle, WA | 1d |
+| **TikTok** | [Software Engineer Intern, TikTok Search Architecture](https://go.vansh.nyc/184) | San Jose, CA | 1d |
+| **TikTok** | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18g) | Seattle, WA | 1d |
+| **TikTok** | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18i) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18o) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Search Architecture](https://go.vansh.nyc/18q) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Recommendation Infra, Performance Efficiency](https://go.vansh.nyc/18s) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18u) | Seattle, WA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Global E-Commerce Search Infrastructure](https://go.vansh.nyc/18y) | Seattle, WA | 1d |
+| **TikTok** | [Software Engineer Intern, Foundation Platform](https://go.vansh.nyc/18C) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, Media Engine](https://go.vansh.nyc/18D) | San Jose, CA | 1d |
+| **TikTok** | [Backend Software Engineer Intern, Creation Platform](https://go.vansh.nyc/18E) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Lead Ads](https://go.vansh.nyc/18H) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Model Infrastructure](https://go.vansh.nyc/18Z) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Platform Efficiency](https://go.vansh.nyc/190) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, Global Traffic Architecture](https://go.vansh.nyc/143) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, Traffic Infrastructure](https://go.vansh.nyc/146) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Project Intern, Developer Infrastructure](https://go.vansh.nyc/14a) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, Relational Database](https://go.vansh.nyc/14d) | San Jose, CA | 1d |
+| **ByteDance** | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14g) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14i) | Seattle, WA | 1d |
+| **ByteDance** | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j) | New York, NY | 1d |
+| **ByteDance** | [Software Engineer Intern, Global Payment - Risk & Compliance](https://go.vansh.nyc/14k) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, CIS Knowledge Bank](https://go.vansh.nyc/14l) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, Global Payment](https://go.vansh.nyc/14n) | San Jose, CA | 1d |
+| **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q) | Seattle, WA | 1d |
+| **ByteDance** | [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) | San Jose, CA | 1d |
+| **ByteDance** | [Self-Built Engineer Intern, CDN Platform](https://go.vansh.nyc/14w) | San Jose, CA | 1d |
+| **ByteDance** | [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x) | San Jose, CA | 1d |
+| **ByteDance** | [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Intern, Global Payment Infra and SRE](https://go.vansh.nyc/14z) | San Jose, CA | 1d |
+| **ByteDance** | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | 1d |
+| **ByteDance** | [Security Engineering Project Intern, Watermark](https://go.vansh.nyc/15F) | San Jose, CA | 1d |
+| **ByteDance** | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/15G) | San Jose, CA | 1d |
+| **ByteDance** | [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L) | San Jose, CA | 1d |
+| **ByteDance** | [Software Development Engineer Intern, Network Automation](https://go.vansh.nyc/17M) | San Jose, CA | 1d |
 | **IAT Insurance Group** | [Cyber Security Intern](https://go.vansh.nyc/197) | Raleigh, NC | 1d |
 | **NVIDIA** | [Software Engineering Intern](https://go.vansh.nyc/12g) | Santa Clara, CA | 1d |
 | **Seattle Seahawks / First & Goal** | [Information Security Intern](https://go.vansh.nyc/193) | Renton, WA | 1d |
 | **1st Source** | [Information Security Intern](https://go.vansh.nyc/192) | South Bend, IN | 1d |
-| **NVIDIA** | [Enterprise Platform Technical Marketing Engineer Intern](https://go.vansh.nyc/12a) | Santa Clara, CA | 1d |
+| **NVIDIA** | [Enterprise Platform Technical Marketing Engineer Intern](https://go.vansh.nyc/12a) | Santa Clara, CA | 2d |
 | **ADT** | [Technology & Engineering Intern](https://go.vansh.nyc/12y) | Boca Raton, FL | 2d |
 | **Arcesium** | [Software Engineer Intern](https://go.vansh.nyc/12z) | New York, NY | 2d |
 | **Arista Networks** | [Software Engineer Intern, C/C++](https://go.vansh.nyc/12B) | Remote, United States | 2d |
@@ -136,10 +138,8 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 | **GardaWorld** | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | 2d |
 | **Dow Jones** | [Software Engineering Intern](https://go.vansh.nyc/10X) | New York, NY | 2d |
 | **The New York Times** | [Backend Engineering Intern, Wirecutter](https://go.vansh.nyc/10Y) | New York, NY | 2d |
-| **The New York Times** | [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) | NYC | 2d |
-| **Students Plus Startups** | [Vroom Power Software Engineering Intern](https://go.vansh.nyc/12s) | San Antonio, TX | 2d |
 
-_+875 more not shown_
+_+869 more not shown_
 
 <a id="intern-frontend"></a>
 
@@ -147,30 +147,30 @@ _+875 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **TikTok** | [Frontend Engineer Intern, Ads Interface](https://go.vansh.nyc/17T) | San Jose, CA | 0d |
-| **TikTok** | [Frontend Engineer Project Intern, Multimedia Arch](https://go.vansh.nyc/18z) | San Jose, CA | 0d |
-| **ByteDance** | [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u) | San Jose, CA | 0d |
+| **TikTok** | [Frontend Engineer Intern, Ads Interface](https://go.vansh.nyc/17T) | San Jose, CA | 1d |
+| **TikTok** | [Frontend Engineer Project Intern, Multimedia Arch](https://go.vansh.nyc/18z) | San Jose, CA | 1d |
+| **ByteDance** | [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u) | San Jose, CA | 1d |
 | **Altera** | [Hardware Design Engineer Intern](https://go.vansh.nyc/10W) | Toronto, Canada | 2d |
 | **Samsung Semiconductor** | [SRAM Design Engineer Intern](https://go.vansh.nyc/10P) | San Jose, CA | 2d |
 | **OLG** | [Front End Developer Student Intern](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) | Toronto, ON, Canada, Sault Ste. Marie, ON, C… | 3d |
 | **OLG** | [Front End Developer Intern](https://go.vansh.nyc/11s) | Toronto, Canada, Sault Ste. Marie, Canada | 3d |
 | **Interco** | [Software Development Intern - Software Development - React](https://jobs.smartrecruiters.com/Interco/744000158581114) | St. Louis, MO | 3d |
 | **Interco** | [Software Development Intern, React](https://go.vansh.nyc/Zy) | St. Louis, MO | 3d |
-| **Disney** | [Full Stack Web Development Intern, Walt Disney Animation Studios](https://go.vansh.nyc/YM) | Burbank, CA | 3d |
+| **Disney** | [Full Stack Web Development Intern, Walt Disney Animation Studios](https://go.vansh.nyc/YM) | Burbank, CA | 4d |
 | **Qualcomm** | [Camera Design Engineering Intern](https://go.vansh.nyc/Yi) | Vancouver, Canada | 4d |
-| **Certa** | [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | London, UK, Remote in India +2 | 4d |
-| **Certa** | [Frontend Engineer Intern](https://go.vansh.nyc/Xa) | San Francisco, CA | 4d |
+| **Certa** | [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | London, UK, Remote in India +2 | 5d |
+| **Certa** | [Frontend Engineer Intern](https://go.vansh.nyc/Xa) | San Francisco, CA | 5d |
 | **Cboe Global Markets** | [Linux Engineer Intern](https://go.vansh.nyc/W4) | Chicago, IL, Kansas City, MO +1 | 5d |
 | **Texas Instruments** | [Web Marketing Intern, Front-end Developer](https://go.vansh.nyc/Wf) | Dallas, TX | 6d |
 | **ASML** | [Frontend Developer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) | San Jose, CA | 6d |
 | **Tencent** | [Game UI Intern - AI Focus](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) | London, UK | 7d |
-| **Skydio** | [Product Design Engineer Intern](https://go.vansh.nyc/BB) | San Mateo, CA | 7d |
+| **Skydio** | [Product Design Engineer Intern](https://go.vansh.nyc/BB) | San Mateo, CA | 8d |
 | **1Password** | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | Remote in USA, Remote in Canada | 10d |
 | **Skydio** | [Frontend Software Engineer Intern](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true) | San Mateo, CA | 10d |
 | **1Password** | [Developer Intern, Front-End Platform](https://go.vansh.nyc/eA) | Remote in USA | 10d |
 | **KRAFTON** | [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) | Montreal, QC, Canada | 10d |
 | **KRAFTON** | [UI Programming Intern](https://go.vansh.nyc/hY) | Montreal, Canada | 10d |
-| **Aptiv** | [Linux Engineering Intern](https://go.vansh.nyc/eM) | Kanata, Canada | 10d |
+| **Aptiv** | [Linux Engineering Intern](https://go.vansh.nyc/eM) | Kanata, Canada | 11d |
 | **Aptiv** | [Linux Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Kanata, Ottawa, ON, Canada | 11d |
 | **FedEx Freight** | [Media & Web Development Intern - Marketing](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600) | United States | 11d |
 | **FedEx Freight** | [Media & Web Development Intern, Marketing](https://go.vansh.nyc/hc) | United States | 11d |
@@ -182,10 +182,10 @@ _+875 more not shown_
 | **General Magic** | [Design Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) | Toronto, ON, Canada | 17d |
 | **Texas Instruments** | [Web Marketing Intern - Front-end Developer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753) | Dallas, TX | 17d |
 | **Armadin** | [Frontend Engineer Intern - Member of Technical Staff](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true) | Palo Alto, CA | 19d |
-| **Armadin** | [Member of Technical Staff Intern, Frontend](https://go.vansh.nyc/8v) | Palo Alto, CA | 19d |
+| **Armadin** | [Member of Technical Staff Intern, Frontend](https://go.vansh.nyc/8v) | Palo Alto, CA | 20d |
 | **Arizona State University** | [Student Web Developer & Content Specialist Intern](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546) | Tempe, AZ | 23d |
-| **Astera Labs** | [Physical Design Engineer Intern](https://go.vansh.nyc/Fq) | Toronto, Canada | 26d |
-| **Astera Labs** | [Digital Design Engineer Intern](https://go.vansh.nyc/Fh) | Toronto, Canada | 26d |
+| **Astera Labs** | [Physical Design Engineer Intern](https://go.vansh.nyc/Fq) | Toronto, Canada | 27d |
+| **Astera Labs** | [Digital Design Engineer Intern](https://go.vansh.nyc/Fh) | Toronto, Canada | 27d |
 | **Micron Technology** | [HBM Memory Design Engineer Intern](https://go.vansh.nyc/Ev) | Richardson, TX | 29d |
 
 <a id="intern-data"></a>
@@ -194,64 +194,64 @@ _+875 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **TikTok** | [Machine Learning Engineer Intern, Brand Ads](https://go.vansh.nyc/17N) | San Jose, CA | 0d |
-| **TikTok** | [Data Science Intern, TikTok LIVE](https://go.vansh.nyc/17O) | San Jose, CA | 0d |
-| **TikTok** | [AI Engineer Intern, TikTok-Client Arch](https://go.vansh.nyc/17P) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) | San Jose, CA | 0d |
-| **TikTok** | [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | 0d |
-| **TikTok** | [Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generali…](https://go.vansh.nyc/17U) | Seattle, WA | 0d |
-| **TikTok** | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, App Ads and Gaming](https://go.vansh.nyc/17X) | San Jose, CA | 0d |
-| **TikTok** | [Data Science Intern, TikTok Product](https://go.vansh.nyc/17Y) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Performance Monetization](https://go.vansh.nyc/181) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183) | San Jose, CA | 0d |
-| **TikTok** | [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) | San Jose, CA | 0d |
-| **TikTok** | [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186) | San Jose, CA | 0d |
-| **TikTok** | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service](https://go.vansh.nyc/189) | San Jose, CA | 0d |
-| **TikTok** | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a) | San Jose, CA | 0d |
-| **TikTok** | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | 0d |
-| **TikTok** | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Intern, TikTok Search Data Infra](https://go.vansh.nyc/18e) | San Jose, CA | 0d |
-| **TikTok** | [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f) | San Jose, CA | 0d |
-| **TikTok** | [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-Tik…](https://go.vansh.nyc/18h) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | 0d |
-| **TikTok** | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Recommendation Global E-Commerce](https://go.vansh.nyc/18l) | Seattle, WA | 0d |
-| **TikTok** | [Software Engineer Intern, Search Data Infra](https://go.vansh.nyc/18n) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Search Quality](https://go.vansh.nyc/18p) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Global E-Commerce Search](https://go.vansh.nyc/18r) | Seattle, WA | 0d |
-| **TikTok** | [AI Software Engineer Project Intern, Transaction Platform](https://go.vansh.nyc/18t) | San Jose, CA | 0d |
-| **TikTok** | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w) | San Jose, CA | 0d |
-| **TikTok** | [Machine Learning Engineer Intern, Recommendation](https://go.vansh.nyc/18B) | San Jose, CA | 0d |
-| **TikTok** | [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G) | San Jose, CA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) | San Jose, CA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) | San Jose, CA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) | San Jose, CA | 0d |
-| **ByteDance** | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144) | San Jose, CA | 0d |
-| **ByteDance** | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/145) | Seattle, WA | 0d |
-| **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML…](https://go.vansh.nyc/147) | Seattle, WA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) | San Jose, CA | 0d |
-| **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149) | Seattle, WA | 0d |
-| **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b) | San Jose, CA | 0d |
-| **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c) | Seattle, WA | 0d |
-| **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f) | San Jose, CA | 0d |
-| **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h) | San Jose, CA | 0d |
-| **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML…](https://go.vansh.nyc/14m) | San Jose, CA | 0d |
-| **ByteDance** | [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14o) | Seattle, WA | 0d |
-| **ByteDance** | [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14r) | San Jose, CA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) | Seattle, WA | 0d |
-| **ByteDance** | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14t) | San Jose, CA | 0d |
-| **ByteDance** | [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A) | San Jose, CA | 0d |
-| **ByteDance** | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://go.vansh.nyc/15E) | Seattle, WA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) | San Jose, CA | 0d |
-| **ByteDance** | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/17K) | Seattle, WA | 0d |
-| **ByteDance** | [Student Researcher Intern, Seed Model - Vision](https://go.vansh.nyc/18Y) | San Jose, CA | 0d |
+| **TikTok** | [Machine Learning Engineer Intern, Brand Ads](https://go.vansh.nyc/17N) | San Jose, CA | 1d |
+| **TikTok** | [Data Science Intern, TikTok LIVE](https://go.vansh.nyc/17O) | San Jose, CA | 1d |
+| **TikTok** | [AI Engineer Intern, TikTok-Client Arch](https://go.vansh.nyc/17P) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) | San Jose, CA | 1d |
+| **TikTok** | [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | 1d |
+| **TikTok** | [Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generali…](https://go.vansh.nyc/17U) | Seattle, WA | 1d |
+| **TikTok** | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, App Ads and Gaming](https://go.vansh.nyc/17X) | San Jose, CA | 1d |
+| **TikTok** | [Data Science Intern, TikTok Product](https://go.vansh.nyc/17Y) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Performance Monetization](https://go.vansh.nyc/181) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183) | San Jose, CA | 1d |
+| **TikTok** | [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) | San Jose, CA | 1d |
+| **TikTok** | [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186) | San Jose, CA | 1d |
+| **TikTok** | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service](https://go.vansh.nyc/189) | San Jose, CA | 1d |
+| **TikTok** | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a) | San Jose, CA | 1d |
+| **TikTok** | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | 1d |
+| **TikTok** | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Intern, TikTok Search Data Infra](https://go.vansh.nyc/18e) | San Jose, CA | 1d |
+| **TikTok** | [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f) | San Jose, CA | 1d |
+| **TikTok** | [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-Tik…](https://go.vansh.nyc/18h) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | 1d |
+| **TikTok** | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Recommendation Global E-Commerce](https://go.vansh.nyc/18l) | Seattle, WA | 1d |
+| **TikTok** | [Software Engineer Intern, Search Data Infra](https://go.vansh.nyc/18n) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Search Quality](https://go.vansh.nyc/18p) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Global E-Commerce Search](https://go.vansh.nyc/18r) | Seattle, WA | 1d |
+| **TikTok** | [AI Software Engineer Project Intern, Transaction Platform](https://go.vansh.nyc/18t) | San Jose, CA | 1d |
+| **TikTok** | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w) | San Jose, CA | 1d |
+| **TikTok** | [Machine Learning Engineer Intern, Recommendation](https://go.vansh.nyc/18B) | San Jose, CA | 1d |
+| **TikTok** | [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G) | San Jose, CA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) | San Jose, CA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) | San Jose, CA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) | San Jose, CA | 1d |
+| **ByteDance** | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144) | San Jose, CA | 1d |
+| **ByteDance** | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/145) | Seattle, WA | 1d |
+| **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML…](https://go.vansh.nyc/147) | Seattle, WA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) | San Jose, CA | 1d |
+| **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149) | Seattle, WA | 1d |
+| **ByteDance** | [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b) | San Jose, CA | 1d |
+| **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c) | Seattle, WA | 1d |
+| **ByteDance** | [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f) | San Jose, CA | 1d |
+| **ByteDance** | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h) | San Jose, CA | 1d |
+| **ByteDance** | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML…](https://go.vansh.nyc/14m) | San Jose, CA | 1d |
+| **ByteDance** | [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14o) | Seattle, WA | 1d |
+| **ByteDance** | [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14r) | San Jose, CA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) | Seattle, WA | 1d |
+| **ByteDance** | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14t) | San Jose, CA | 1d |
+| **ByteDance** | [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A) | San Jose, CA | 1d |
+| **ByteDance** | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://go.vansh.nyc/15E) | Seattle, WA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) | San Jose, CA | 1d |
+| **ByteDance** | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/17K) | Seattle, WA | 1d |
+| **ByteDance** | [Student Researcher Intern, Seed Model - Vision](https://go.vansh.nyc/18Y) | San Jose, CA | 1d |
 | **Cencora** | [Data Analytics Intern](https://go.vansh.nyc/18K) | Corona, CA | 1d |
 | **DivcoWest** | [AI Intern](https://go.vansh.nyc/18L) | San Francisco, CA | 1d |
 | **Northrop Grumman** | [Data Scientist Intern, Product Support](https://go.vansh.nyc/125) 🇺🇸 | San Diego, CA | 2d |
@@ -295,7 +295,7 @@ _+875 more not shown_
 | **Keysight Technologies** | [Quality Engineer Intern](https://jobs.keysight.com/jobs/54736?icims=1) | Roseville, CA | 2d |
 | **Waymo** | [Research Scientist Intern](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Mountain View, CA | 2d |
 
-_+987 more not shown_
+_+985 more not shown_
 
 <a id="intern-quant"></a>
 
@@ -305,7 +305,7 @@ _+987 more not shown_
 |---|---|---|---|
 | **First Citizens BancShares** | [Quantitative Modeling Intern](https://firstcitizens.jibeapply.com/jobs/36317?icims=1) | Raleigh, NC | 2d |
 | **Synthesis** | [Quantitative Research Intern](https://apply.workable.com/synthesisim/j/C2932F1DE5/apply) | London, UK | 3d |
-| **SCM** | [Quantitative Research Analyst Intern](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Radnor, PA | 3d |
+| **SCM** | [Quantitative Research Analyst Intern](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Radnor, PA | 4d |
 | **Bank of Montreal** | [Quantitative Trading Analyst Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Toronto, ON, Canada | 4d |
 | **Bank of Montreal** | [Quantitative Trading Analyst Co-op](https://go.vansh.nyc/Z0) | Toronto, Canada | 4d |
 | **CIBC** | [Analyst Co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | Montreal, QC, Canada | 4d |
@@ -324,14 +324,14 @@ _+987 more not shown_
 | **Intercontinental Exchange** | [Quantitative Financial Analytics Intern](https://ice.jibeapply.com/jobs/14055?icims=1) | Atlanta, GA | 9d |
 | **Intercontinental Exchange** | [Quantitative Research Intern](https://ice.jibeapply.com/jobs/14057?icims=1) | Atlanta, GA | 9d |
 | **Intercontinental Exchange** | [Quantitative Engineer Intern](https://ice.jibeapply.com/jobs/14053?icims=1) | Atlanta, GA | 9d |
-| **Glencore** | [Industrial Placement Intern - Quantitative Research - Analytics](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) | London, UK | 9d |
+| **Glencore** | [Industrial Placement Intern - Quantitative Research - Analytics](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) | London, UK | 10d |
 | **Amazon** | [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Seattle, WA, Arlington County, Arlington, VA… | 10d |
 | **Amazon** | [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | Seattle, WA, Arlington County, Arlington, VA… | 10d |
 | **AMA** | [Architecture Research Intern - Predictive Modelling & Simulations](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Edmonton, AB, Canada | 10d |
 | **Schonfeld** | [PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | NYC | 10d |
 | **Aon** | [Actuarial Intern - Client Consulting](https://jobs.aon.com/jobs/106879?icims=1) | Toronto, ON, Canada | 10d |
-| **InfiniteQuant** | [Quantitative Researcher Intern](https://go.vansh.nyc/eP) | New York, NY | 10d |
-| **CIBC** | [AI and Quantum Scientist Co-op](https://go.vansh.nyc/dG) | Toronto, ON | 11d |
+| **InfiniteQuant** | [Quantitative Researcher Intern](https://go.vansh.nyc/eP) | New York, NY | 11d |
+| **CIBC** | [AI and Quantum Scientist Co-op](https://go.vansh.nyc/dG) | Toronto, ON | 12d |
 | **FanDuel** | [Sports Trader Intern](https://boards.greenhouse.io/embed/job_app?token=8300829) | Jersey City, NJ | 12d |
 | **Point72** | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | 13d |
 | **Graviton** | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | London, UK, Amsterdam, Netherlands +2 | 13d |
@@ -363,7 +363,6 @@ _+987 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **KnowBe4** | [Associate Product Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) | Clearwater, FL | 0d |
 | **Parallel Systems** | [Product Management Intern](https://go.vansh.nyc/13i) | Los Angeles, CA | 2d |
 | **MANN+HUMMEL** | [Product Management & Market Intelligence Intern](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Gastonia, NC | 2d |
 | **TikTok** | [Product Manager Project Intern - Global Monetization Product and Technology](https://lifeattiktok.com/search/7701486873210390837) | San Jose, CA | 2d |
@@ -397,7 +396,7 @@ _+987 more not shown_
 | **Parallel Systems** | [Product Management Intern](https://boards.greenhouse.io/parallel/jobs/5275719007) | LA | 6d |
 | **Hive Financial Systems** | [Product & Program Management Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Atlanta, GA | 6d |
 | **Zebra Technologies** | [Product Management Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Lincolnshire, IL | 7d |
-| **Microsoft** | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Cambridge, MA | 9d |
+| **Microsoft** | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | 9d |
 | **Intercontinental Exchange** | [Product Management Intern](https://ice.jibeapply.com/jobs/14065?icims=1) | Atlanta, GA | 9d |
 | **1Password** | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote in USA, Remote in Canada | 9d |
 | **1Password** | [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) | Remote, United States +1 | 9d |
@@ -416,7 +415,7 @@ _+987 more not shown_
 | **OpenArt AI** | [Early Adopter & Product Builder Intern - Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | San Carlos, CA | 11d |
 | **CVS Health** | [Innovation & Technology Internship - Product & Agile Delivery](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Dallas, TX, Scottsdale, AZ +2 | 11d |
 | **OneEthos** | [Product Management Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Remote in USA | 11d |
-| **Aptiv** | [AI Product Analyst Intern](https://go.vansh.nyc/dC) | San Diego, CA | 11d |
+| **Aptiv** | [AI Product Analyst Intern](https://go.vansh.nyc/dC) | San Diego, CA | 12d |
 | **GoFundMe** | [MBA Product Management Intern](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | SF | 12d |
 | **Allstate** | [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Illinois | 12d |
 | **CIBC** | [Product Analyst Co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | Toronto, ON, Canada | 12d |
@@ -463,8 +462,9 @@ _+987 more not shown_
 | **Axos Bank** | [Product Intern](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664) | San Diego, CA | 26d |
 | **Hewlett Packard** | [Software Product Manager Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1) | Austin, TX, Fort Collins, CO | 26d |
 | **Nissan Global** | [Connected Car Business Development Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270) | Franklin, TN | 26d |
+| **Nissan Global** | [Product Planning Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) | Franklin, TN | 26d |
 
-_+13 more not shown_
+_+12 more not shown_
 
 <a id="intern-hardware"></a>
 
@@ -472,7 +472,7 @@ _+13 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **TikTok** | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | 0d |
+| **TikTok** | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | 1d |
 | **NVIDIA** | [Autonomous Vehicles and Robotics Intern](https://go.vansh.nyc/12h) | Santa Clara, CA | 1d |
 | **Relling** | [Robotics Software Engineering Intern](https://go.vansh.nyc/13m) | San Francisco, CA | 2d |
 | **Qualcomm** | [Camera HW ASIC Verification Intern](https://qualcomm.eightfold.ai/careers/job/446721829462) | Vancouver, BC, Canada | 2d |
@@ -486,7 +486,7 @@ _+13 more not shown_
 | **Altera** | [FPGA Development Tools Intern](https://go.vansh.nyc/10V) | Toronto, Canada | 2d |
 | **Samsung** | [SRAM Design Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | San Jose, CA | 2d |
 | **Sierra Nevada Corporation** | [Firmware Engineering Intern](https://go.vansh.nyc/10G) 🇺🇸 | Folsom, CA | 2d |
-| **L3Harris Technologies** | [FPGA Software Tool Developer Co-op](https://go.vansh.nyc/10n) | Waterdown, Canada | 2d |
+| **L3Harris Technologies** | [FPGA Software Tool Developer Co-op](https://go.vansh.nyc/10n) | Waterdown, Canada | 3d |
 | **Qualcomm** | [Soft IP Engineer Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862542) | Ottawa, ON, Canada | 3d |
 | **Altera** | [Hardware Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) | Toronto, ON, Canada | 3d |
 | **Ciena** | [Mixed Signal Designer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989) | Remote in Canada | 3d |
@@ -516,8 +516,8 @@ _+13 more not shown_
 | **Qualcomm** | [Camera Design Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721829439) | Vancouver, BC, Canada | 4d |
 | **Renesas Electronics** | [Application Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000158346447) | San Jose, CA | 4d |
 | **Qualcomm** | [Formal Verification Engineering Intern - 6 months](https://qualcomm.eightfold.ai/careers/job/446721822125) | Cambridge, UK | 4d |
-| **RosaicLabs** | [AI Accelerator Design Verification Engineer Intern](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) | Austin, TX, Santa Clara, CA | 4d |
-| **RosaicLabs** | [CPU Design Verification Engineer Intern](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) | Austin, TX, Santa Clara, CA | 4d |
+| **RosaicLabs** | [AI Accelerator Design Verification Engineer Intern](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) | Austin, TX, Santa Clara, CA | 5d |
+| **RosaicLabs** | [CPU Design Verification Engineer Intern](https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply) | Austin, TX, Santa Clara, CA | 5d |
 | **Samsung** | [RTL Power Macromodeling Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | San Jose, CA | 5d |
 | **Micron Technology** | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | 5d |
 | **Altera** | [FPGA Hardware Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | Marlow, UK | 5d |
@@ -540,10 +540,10 @@ _+13 more not shown_
 | **Toshiba International Corporation** | [Firmware Engineer Intern](https://go.vansh.nyc/11O) | San Jose, CA | 5d |
 | **Waymo** | [Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA | 5d |
 | **Mayo Clinic** | [Graduate Engineer Intern - Electronics](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) | Rochester, MN | 5d |
-| **lowRISC CIC** | [Design Engineer Intern](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | Cambridge, UK | 5d |
-| **Philips** | [Embedded Test Engineer Co-op](https://go.vansh.nyc/Xl) | Murrysville, PA | 5d |
-| **HP IQ** | [Electrical Engineer Intern - Hardware](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | SF | 5d |
-| **HP IQ** | [Product Design Engineering Intern](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | SF | 5d |
+| **lowRISC CIC** | [Design Engineer Intern](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | Cambridge, UK | 6d |
+| **Philips** | [Embedded Test Engineer Co-op](https://go.vansh.nyc/Xl) | Murrysville, PA | 6d |
+| **HP IQ** | [Electrical Engineer Intern - Hardware](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | SF | 6d |
+| **HP IQ** | [Product Design Engineering Intern](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | SF | 6d |
 | **AeroVironment** | [Test Engineer Intern - Space Technologies](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | Albuquerque, NM | 6d |
 | **Boston Dynamics** | [Electrical Engineer Co-op](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) | Waltham, MA | 6d |
 | **Ciena** | [Optical Performance Lab Verification and Testing Co-op](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Ottawa, ON, Canada | 6d |
@@ -567,13 +567,13 @@ _+13 more not shown_
 | **Videotron** | [Engineering Intern](https://jobs.smartrecruiters.com/Videotron/744000157818080) | Montreal, QC, Canada | 6d |
 | **Renesas Electronics** | [Application Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000157804996) | Edinburgh, UK | 6d |
 | **Renesas Electronics** | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000157802490) | Edinburgh, UK | 6d |
-| **RTX** | [Embedded Software Engineering Intern](https://go.vansh.nyc/BP) 🇺🇸 | East Hartford, CT | 6d |
-| **General Dynamics Mission Systems, Inc.** | [Software Test Engineering Intern, Space and Embedded Crypto](https://go.vansh.nyc/W0) 🇺🇸 | Scottsdale, AZ | 6d |
+| **RTX** | [Embedded Software Engineering Intern](https://go.vansh.nyc/BP) 🇺🇸 | East Hartford, CT | 7d |
+| **General Dynamics Mission Systems, Inc.** | [Software Test Engineering Intern, Space and Embedded Crypto](https://go.vansh.nyc/W0) 🇺🇸 | Scottsdale, AZ | 7d |
 | **Altera** | [Technical Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351) | Toronto, ON, Canada | 7d |
 | **Analog Devices** | [Embedded Systems Co-op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) | Boston, MA | 7d |
 | **Boston Dynamics** | [Systems Test Engineer Co-op](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) | Waltham, MA | 7d |
 
-_+354 more not shown_
+_+353 more not shown_
 
 <a id="intern-other"></a>
 
@@ -619,9 +619,9 @@ _+354 more not shown_
 | **Rakuten International** | [eReader Quality Assurance Intern](https://go.vansh.nyc/SF) | Toronto, Canada | 6d |
 | **SOTI** | [Quality Assurance Specialist Intern, SOTI Connect](https://go.vansh.nyc/SH) | Mississauga, Canada | 6d |
 | **Peraton** | [Solution Architect Co-op](https://go.vansh.nyc/T6) | San Diego, CA | 7d |
-| **Skydio** | [Flight Test Intern](https://go.vansh.nyc/Bz) | San Mateo, CA | 7d |
+| **Skydio** | [Flight Test Intern](https://go.vansh.nyc/Bz) | San Mateo, CA | 8d |
 | **Americo Financial Life and Annuity** | [Artificial Intelligence Intern](https://go.vansh.nyc/Qh) | Kansas City, MO | 9d |
-| **Aerospace Corporation** | [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5) 🇺🇸 | El Segundo, CA | 9d |
+| **Aerospace Corporation** | [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5) 🇺🇸 | El Segundo, CA | 10d |
 | **MITRE** | [Autonomous Systems Intern](https://go.vansh.nyc/gU) | McLean, VA | 10d |
 | **Altera** | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto, Canada | 10d |
 | **GlobalFoundries** | [CPU IP Design & Verification Intern, RISC-V Processor Development](https://go.vansh.nyc/hm) | Austin, TX, Santa Clara, CA | 10d |
@@ -632,9 +632,9 @@ _+354 more not shown_
 | **LabCorp** | [Bioinformatics Intern](https://go.vansh.nyc/eG) | Baltimore, MD | 10d |
 | **Uline** | [Systems Administrator Intern](https://go.vansh.nyc/ey) | Pleasant Prairie, WI, Milwaukee, WI +3 | 10d |
 | **Uline** | [Database Administrator Intern](https://go.vansh.nyc/eF) | Pleasant Prairie, WI, Milwaukee, WI +3 | 10d |
-| **Aptiv** | [Linux Intern](https://go.vansh.nyc/eN) | Kanata, Canada | 10d |
-| **Insperity** | [Rotational Technology Intern](https://go.vansh.nyc/fL) | Kingwood, TX | 10d |
-| **Western & Southern Financial Group** | [Enterprise Architecture Information Technology Intern](https://go.vansh.nyc/eX) | Cincinnati, OH | 10d |
+| **Aptiv** | [Linux Intern](https://go.vansh.nyc/eN) | Kanata, Canada | 11d |
+| **Insperity** | [Rotational Technology Intern](https://go.vansh.nyc/fL) | Kingwood, TX | 11d |
+| **Western & Southern Financial Group** | [Enterprise Architecture Information Technology Intern](https://go.vansh.nyc/eX) | Cincinnati, OH | 11d |
 | **Qualcomm** | [Camera Design Implementation Intern](https://go.vansh.nyc/ek) | Markham, ON, Canada | 11d |
 | **Leidos** | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote in USA | 11d |
 | **Aerospace Corporation** | [Digital Communication Intern](https://go.vansh.nyc/dx) 🇺🇸 | El Segundo, CA | 11d |
@@ -644,26 +644,26 @@ _+354 more not shown_
 | **Bombardier** | [Extended Reality Programmer Intern](https://go.vansh.nyc/Sm) | Dorval, Canada | 14d |
 | **Los Alamos National Laboratory** | [High Performance Computing Undergraduate Intern](https://go.vansh.nyc/Ri) 🇺🇸 | United States | 14d |
 | **Waabi** | [Safety Methodologies Co-op](https://go.vansh.nyc/b5) | Toronto, ON, Canada, SF +1 | 16d |
-| **LLNL** | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summ…](https://go.vansh.nyc/am) | Livermore, CA | 16d |
-| **Rocket Companies** | [Marketing, Accounting, or IT Intern](https://go.vansh.nyc/aq) | Detroit, MI | 16d |
-| **W.R. Berkley** | [Enterprise Architecture Co-op](https://go.vansh.nyc/ax) | Urbandale, IA | 16d |
-| **Johnson & Johnson** | [Emerging Technologies Co-op](https://go.vansh.nyc/a2) | Spring House, PA | 17d |
-| **RTX** | [System Administrator Intern](https://go.vansh.nyc/9O) 🇺🇸 | Middletown, RI | 17d |
+| **LLNL** | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summ…](https://go.vansh.nyc/am) | Livermore, CA | 17d |
+| **Rocket Companies** | [Marketing, Accounting, or IT Intern](https://go.vansh.nyc/aq) | Detroit, MI | 17d |
+| **W.R. Berkley** | [Enterprise Architecture Co-op](https://go.vansh.nyc/ax) | Urbandale, IA | 17d |
+| **Johnson & Johnson** | [Emerging Technologies Co-op](https://go.vansh.nyc/a2) | Spring House, PA | 18d |
+| **RTX** | [System Administrator Intern](https://go.vansh.nyc/9O) 🇺🇸 | Middletown, RI | 18d |
 | **Lawrence Livermore National Laboratory…** | [Power Systems Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/gj) | Livermore, CA | 18d |
-| **GE Vernova** | [Grid Foundational Models Intern, AGI](https://go.vansh.nyc/96) | Bellevue, WA | 18d |
-| **Hitachi** | [ITV Automation Specialist Intern](https://go.vansh.nyc/9v) | Toronto, ON | 18d |
-| **Johnson & Johnson** | [Technical Operations Co-op](https://go.vansh.nyc/9w) | West Chester, PA | 18d |
-| **Susquehanna International Group** | [Technology Co-op](https://go.vansh.nyc/9A) | Remote (US) | 18d |
+| **GE Vernova** | [Grid Foundational Models Intern, AGI](https://go.vansh.nyc/96) | Bellevue, WA | 19d |
+| **Hitachi** | [ITV Automation Specialist Intern](https://go.vansh.nyc/9v) | Toronto, ON | 19d |
+| **Johnson & Johnson** | [Technical Operations Co-op](https://go.vansh.nyc/9w) | West Chester, PA | 19d |
+| **Susquehanna International Group** | [Technology Co-op](https://go.vansh.nyc/9A) | Remote (US) | 19d |
 | **Phillips 66** | [ERI Analytical Solutions Intern](https://go.vansh.nyc/Cm) | Bartlesville, OK | 19d |
 | **Jain Global** | [Compliance Technology Intern](https://go.vansh.nyc/Cg) | New York, NY | 19d |
 | **Electronic Arts** | [Technical Artist Co-op](https://go.vansh.nyc/Cb) | Vancouver, Canada | 19d |
-| **Cook Group** | [Artificial Intelligence & Innovation Intern](https://go.vansh.nyc/8z) | Bloomington, IN | 19d |
-| **Marsh** | [Intern](https://go.vansh.nyc/8H) | Dallas, TX | 19d |
-| **Mary Free Bed Rehabilitation Hospital** | [IT Intern](https://go.vansh.nyc/8I) | Grand Rapids, MI | 19d |
-| **Bosch** | [ERP/IT Intern](https://go.vansh.nyc/87) | Lincolnshire, IL | 20d |
+| **Cook Group** | [Artificial Intelligence & Innovation Intern](https://go.vansh.nyc/8z) | Bloomington, IN | 20d |
+| **Marsh** | [Intern](https://go.vansh.nyc/8H) | Dallas, TX | 20d |
+| **Mary Free Bed Rehabilitation Hospital** | [IT Intern](https://go.vansh.nyc/8I) | Grand Rapids, MI | 20d |
+| **Bosch** | [ERP/IT Intern](https://go.vansh.nyc/87) | Lincolnshire, IL | 21d |
 | **Johnson & Johnson** | [IDAR Intern, C&SP](https://go.vansh.nyc/GF) | Spring House, PA, Raritan, NJ +1 | 21d |
-| **Advanced Space** | [Technical Growth and Capture Intern](https://go.vansh.nyc/7Y) | Westminster, CO | 22d |
-| **Sentinel Technologies** | [SOC Intern](https://go.vansh.nyc/Hg) | Downers Grove, IL | 23d |
+| **Advanced Space** | [Technical Growth and Capture Intern](https://go.vansh.nyc/7Y) | Westminster, CO | 23d |
+| **Sentinel Technologies** | [SOC Intern](https://go.vansh.nyc/Hg) | Downers Grove, IL | 24d |
 | **GCM Grosvenor** | [IT Product & Strategy Intern](https://go.vansh.nyc/gb) | Chicago, IL | 24d |
 | **PSP Investments** | [GenAI and Digital Workplace Intern](https://go.vansh.nyc/G1) | Montreal, Canada | 25d |
 | **CAE** | [Artificial Intelligence Intern](https://go.vansh.nyc/EZ) | Montreal, Canada | 27d |
@@ -681,77 +681,79 @@ _+354 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **Amazon** | [Software Development Engineer](https://go.vansh.nyc/17o) | Cambridge, MA | 0d |
-| **Amazon** | [Software Development Engineer, Amazon Dedicated Cloud](https://go.vansh.nyc/17p) 🇺🇸 | Seattle, WA | 0d |
-| **Amazon** | [Software Development Engineer, Amazon Leo](https://go.vansh.nyc/17q) 🇺🇸 | Redmond, WA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Business Governance](https://go.vansh.nyc/15K) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Risk & Response)](https://go.vansh.nyc/15L) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center)](https://go.vansh.nyc/15N) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Feed Safety)](https://go.vansh.nyc/15R) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Ads Infrastructure](https://go.vansh.nyc/15S) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Site Reliability Engineer (Global SRE)](https://go.vansh.nyc/15T) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Transaction Platform](https://go.vansh.nyc/15W) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)](https://go.vansh.nyc/15Y) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Trust & Safety)](https://go.vansh.nyc/167) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Machine Moderation Platform)](https://go.vansh.nyc/16c) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Trust & Safety)](https://go.vansh.nyc/16d) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Self-Built Engineer (CDN Platform)](https://go.vansh.nyc/16f) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Ads Interface](https://go.vansh.nyc/16g) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Ads Infra](https://go.vansh.nyc/16q) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Global E-commerce-Search)](https://go.vansh.nyc/16s) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Backend Engineer, User Growth](https://go.vansh.nyc/16u) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Media Engine)](https://go.vansh.nyc/16w) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Global E-commerce](https://go.vansh.nyc/16y) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Fullstack Software Engineer, Global E-commerce](https://go.vansh.nyc/16z) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Ads Delivery)](https://go.vansh.nyc/16E) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Ads Measurement Signal Technology)](https://go.vansh.nyc/16F) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Ads Signal & Measurement)](https://go.vansh.nyc/16K) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Self-Built Engineer, CDN Platform](https://go.vansh.nyc/16L) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Global CRM](https://go.vansh.nyc/16M) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Self-Built Engineer (CDN Platform) (Master's)](https://go.vansh.nyc/16P) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Video-on-Demand Algorithm) (Master's)](https://go.vansh.nyc/16R) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Creation Platform](https://go.vansh.nyc/16T) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastruc…](https://go.vansh.nyc/170) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Testing Engineer, Social-User and Relation](https://go.vansh.nyc/173) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Foundation Platform (Master's)](https://go.vansh.nyc/175) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Video-on-Demand Algorithm)](https://go.vansh.nyc/176) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Foundation Platform](https://go.vansh.nyc/177) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)](https://go.vansh.nyc/178) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Privacy and Security - Product](https://go.vansh.nyc/17a) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer (Global E-commerce)](https://go.vansh.nyc/17b) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Media Engine (Master's)](https://go.vansh.nyc/17c) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture](https://go.vansh.nyc/17d) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Testing Engineer, Intelligent Creation](https://go.vansh.nyc/17e) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Business Integrity](https://go.vansh.nyc/17g) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Creation Platform (Master's)](https://go.vansh.nyc/17k) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Mast…](https://go.vansh.nyc/14K) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Mast…](https://go.vansh.nyc/14L) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Backend Inference Runtime Engineer (AML Inference)](https://go.vansh.nyc/14U) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14W) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/14Y) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Backend Inference Framework Engineer (AML Inference)](https://go.vansh.nyc/152) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)](https://go.vansh.nyc/155) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/156) | New York, NY | 0d |
-| **ByteDance** | [New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Techn…](https://go.vansh.nyc/158) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15d) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15e) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (AML-Engine-Forge Platform)](https://go.vansh.nyc/15f) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Product Security Engineer (Security BP)](https://go.vansh.nyc/15n) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/15q) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)](https://go.vansh.nyc/15w) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)](https://go.vansh.nyc/15z) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Network Engineer, Physical Network Infra](https://go.vansh.nyc/15A) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Development Engineer (Intent-Based Networking)](https://go.vansh.nyc/15B) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer, Traffic Infrastructure](https://go.vansh.nyc/15D) | San Jose, CA | 0d |
-| **Huntington Ingalls Industries** | [Software Engineer 1](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors) | Newport News, VA | 0d |
+| **Huntington Ingalls Industries** | [IT Software Engineer 1 - Robotic Process Automation](https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA%29-Virg/1445226800/?ats=successfactors) | Newport News, VA | 0d |
+| **Google** | [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) | Palo Alto, CA, Madison, WI +10 | 0d |
+| **Amazon** | [Software Development Engineer](https://go.vansh.nyc/17o) | Cambridge, MA | 1d |
+| **Amazon** | [Software Development Engineer, Amazon Dedicated Cloud](https://go.vansh.nyc/17p) 🇺🇸 | Seattle, WA | 1d |
+| **Amazon** | [Software Development Engineer, Amazon Leo](https://go.vansh.nyc/17q) 🇺🇸 | Redmond, WA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Business Governance](https://go.vansh.nyc/15K) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Risk & Response)](https://go.vansh.nyc/15L) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center)](https://go.vansh.nyc/15N) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Feed Safety)](https://go.vansh.nyc/15R) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Ads Infrastructure](https://go.vansh.nyc/15S) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Site Reliability Engineer (Global SRE)](https://go.vansh.nyc/15T) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Transaction Platform](https://go.vansh.nyc/15W) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)](https://go.vansh.nyc/15Y) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Trust & Safety)](https://go.vansh.nyc/167) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Machine Moderation Platform)](https://go.vansh.nyc/16c) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Trust & Safety)](https://go.vansh.nyc/16d) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Self-Built Engineer (CDN Platform)](https://go.vansh.nyc/16f) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Ads Interface](https://go.vansh.nyc/16g) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Ads Infra](https://go.vansh.nyc/16q) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Global E-commerce-Search)](https://go.vansh.nyc/16s) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Backend Engineer, User Growth](https://go.vansh.nyc/16u) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Media Engine)](https://go.vansh.nyc/16w) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Global E-commerce](https://go.vansh.nyc/16y) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Fullstack Software Engineer, Global E-commerce](https://go.vansh.nyc/16z) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Ads Delivery)](https://go.vansh.nyc/16E) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Ads Measurement Signal Technology)](https://go.vansh.nyc/16F) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Ads Signal & Measurement)](https://go.vansh.nyc/16K) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Self-Built Engineer, CDN Platform](https://go.vansh.nyc/16L) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Global CRM](https://go.vansh.nyc/16M) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Self-Built Engineer (CDN Platform) (Master's)](https://go.vansh.nyc/16P) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Video-on-Demand Algorithm) (Master's)](https://go.vansh.nyc/16R) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Creation Platform](https://go.vansh.nyc/16T) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastruc…](https://go.vansh.nyc/170) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Testing Engineer, Social-User and Relation](https://go.vansh.nyc/173) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Foundation Platform (Master's)](https://go.vansh.nyc/175) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Video-on-Demand Algorithm)](https://go.vansh.nyc/176) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Foundation Platform](https://go.vansh.nyc/177) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)](https://go.vansh.nyc/178) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Privacy and Security - Product](https://go.vansh.nyc/17a) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer (Global E-commerce)](https://go.vansh.nyc/17b) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Media Engine (Master's)](https://go.vansh.nyc/17c) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture](https://go.vansh.nyc/17d) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Testing Engineer, Intelligent Creation](https://go.vansh.nyc/17e) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Business Integrity](https://go.vansh.nyc/17g) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Creation Platform (Master's)](https://go.vansh.nyc/17k) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Mast…](https://go.vansh.nyc/14K) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Mast…](https://go.vansh.nyc/14L) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Backend Inference Runtime Engineer (AML Inference)](https://go.vansh.nyc/14U) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14W) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/14Y) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Backend Inference Framework Engineer (AML Inference)](https://go.vansh.nyc/152) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)](https://go.vansh.nyc/155) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/156) | New York, NY | 1d |
+| **ByteDance** | [New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Techn…](https://go.vansh.nyc/158) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15d) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15e) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (AML-Engine-Forge Platform)](https://go.vansh.nyc/15f) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Product Security Engineer (Security BP)](https://go.vansh.nyc/15n) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/15q) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)](https://go.vansh.nyc/15w) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)](https://go.vansh.nyc/15z) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Network Engineer, Physical Network Infra](https://go.vansh.nyc/15A) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Development Engineer (Intent-Based Networking)](https://go.vansh.nyc/15B) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer, Traffic Infrastructure](https://go.vansh.nyc/15D) | San Jose, CA | 1d |
+| **Huntington Ingalls Industries** | [Software Engineer 1](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors) | Newport News, VA | 1d |
+| **Brown & Brown Insurance** | [Junior HubSpot Developer](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694) | Plano, TX | 1d |
 | **NVIDIA** | [Security Architect](https://go.vansh.nyc/11L) | Santa Clara, CA | 2d |
 | **NVIDIA** | [RTL Power Optimization Engineer (Master's)](https://go.vansh.nyc/11E) | Santa Clara, CA | 2d |
 | **NVIDIA** | [Power Methodology and Modeling Engineer (Master's)](https://go.vansh.nyc/11H) | Austin, TX | 2d |
 | **Hyphenate** | [New Grad: Software Engineer](https://go.vansh.nyc/13Q) | New York, NY | 2d |
 | **Northrop Grumman** | [Associate Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018) | Hollywood, MD | 2d |
 | **SuperApp** | [New Grad 2027: Software Engineer](https://go.vansh.nyc/13T) | San Francisco, CA | 2d |
-| **Wiltshire Farm Foods** | [Software Developer in Test](https://go.vansh.nyc/13U) | Remote | 2d |
 | **NVIDIA** | [Cell Modeling and Verification Engineer](https://go.vansh.nyc/11B) | Santa Clara, CA | 2d |
 | **NVIDIA** | [Architecture Energy Modeling Engineer (Master's)](https://go.vansh.nyc/11p) | Santa Clara, CA | 2d |
 | **NVIDIA** | [GPU Verification Engineer](https://go.vansh.nyc/11q) | Westford, MA | 2d |
@@ -779,8 +781,6 @@ _+354 more not shown_
 | **Raydar** | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/247E466DF2/apply) | SF | 3d |
 | **Raydar** | [Founding Software Engineer](https://apply.workable.com/raydar/j/29870CA1DE/apply) | SF | 3d |
 | **Raydar** | [Forward Deployed Engineer](https://apply.workable.com/raydar/j/3D1A5526C8/apply) | SF, LA | 3d |
-| **Raydar** | [Full Stack Engineer](https://apply.workable.com/raydar/j/2EB8E9A042/apply) | SF | 3d |
-| **Raydar** | [Founding Product Engineer](https://apply.workable.com/raydar/j/EB038A923D/apply) | SF | 3d |
 
 _+409 more not shown_
 
@@ -790,10 +790,10 @@ _+409 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **TikTok** | [New Grad 2027: Frontend Software Engineer (Global CRM)](https://go.vansh.nyc/15O) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Frontend Software Engineer (Ads Interface)](https://go.vansh.nyc/16n) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: ASIC Design Engineer (Video Silicon IP)](https://go.vansh.nyc/15t) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)](https://go.vansh.nyc/15x) | San Jose, CA | 0d |
+| **TikTok** | [New Grad 2027: Frontend Software Engineer (Global CRM)](https://go.vansh.nyc/15O) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Frontend Software Engineer (Ads Interface)](https://go.vansh.nyc/16n) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: ASIC Design Engineer (Video Silicon IP)](https://go.vansh.nyc/15t) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)](https://go.vansh.nyc/15x) | San Jose, CA | 1d |
 | **NVIDIA** | [ASIC Floorplan Design Engineer (Master's)](https://go.vansh.nyc/11k) | Santa Clara, CA | 2d |
 | **NVIDIA** | [ASIC Design Engineer](https://go.vansh.nyc/11m) | Santa Clara, CA | 2d |
 | **NVIDIA** | [New Grad 2027: ASIC Design Engineer](https://go.vansh.nyc/11o) | Santa Clara, CA | 2d |
@@ -816,7 +816,7 @@ _+409 more not shown_
 | **VivSoft Technologies** | [Front-End Developer](https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer) | Remote in USA | 24d |
 | **Qualcomm** | [Memory and Cache Controller Design Engineer, ASIC Engineering (Master's)](https://go.vansh.nyc/HN) | San Diego, CA | 25d |
 | **Otter.ai** | [Software Engineer New Grad - Front-End](https://otter.ai/careers?gh_jid=8016078003) | Mountain View, CA | 25d |
-| **Roku** | [Software Engineer - AI/UI](https://www.weareroku.com/jobs/8188704?gh_jid=8188704) | San Jose, CA | 26d |
+| **Roku** | [Software Engineer - AI/UI](https://www.weareroku.com/jobs/8188704?gh_jid=8188704) | San Jose, CA | 27d |
 
 <a id="newgrad-data"></a>
 
@@ -825,107 +825,107 @@ _+409 more not shown_
 | Company | Role | Location | Age |
 |---|---|---|---|
 | **SAIC** | [Geographic Information Systems Analyst](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675) | California, MD | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Emerging Products & AI Safety](https://go.vansh.nyc/15M) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy)](https://go.vansh.nyc/15P) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Research Scientist (Ads Creative) (Master's)](https://go.vansh.nyc/15Q) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Ads Signal & Measurement)](https://go.vansh.nyc/15U) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Research Scientist, TikTok Recommendation](https://go.vansh.nyc/15V) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Recommendation](https://go.vansh.nyc/15X) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (Data Arch - E-commerce)](https://go.vansh.nyc/15Z) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Data Engineer, Monetization Data](https://go.vansh.nyc/160) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alli…](https://go.vansh.nyc/161) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Commerce Ads](https://go.vansh.nyc/162) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alli…](https://go.vansh.nyc/164) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics](https://go.vansh.nyc/165) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Live)](https://go.vansh.nyc/166) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: ML Infra Engineer, Ads Infra](https://go.vansh.nyc/168) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)](https://go.vansh.nyc/169) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)](https://go.vansh.nyc/16a) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Commercial AI-CRM and Transaction) (M…](https://go.vansh.nyc/16i) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Search Quality](https://go.vansh.nyc/16j) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16k) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Research Scientist, Monetization Technology - Business Integrity…](https://go.vansh.nyc/16l) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16m) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16p) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall](https://go.vansh.nyc/16r) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)](https://go.vansh.nyc/16t) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation](https://go.vansh.nyc/16v) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-…](https://go.vansh.nyc/16x) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team)](https://go.vansh.nyc/16A) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Performance Monetization](https://go.vansh.nyc/16B) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Ads Targeting)](https://go.vansh.nyc/16C) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Brand Ads (Master's)](https://go.vansh.nyc/16D) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: AI Engineer (Client Arch)](https://go.vansh.nyc/16G) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Software Development Engineer (Global E-Commerce-Quality Platfor…](https://go.vansh.nyc/16H) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (TikTok-Data-Search-Recommendation-Glo…](https://go.vansh.nyc/16N) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Data Scientist (Multimedia) (Master's)](https://go.vansh.nyc/16O) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (App Ads and Gaming)](https://go.vansh.nyc/16S) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Data Scientist (Multimedia)](https://go.vansh.nyc/16V) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16W) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Research Engineer, Monetization Technology - Business Integrity…](https://go.vansh.nyc/16X) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: LLM Post-training Engineer (Research & Product)](https://go.vansh.nyc/16Y) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Gl…](https://go.vansh.nyc/16Z) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)](https://go.vansh.nyc/171) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Ads Delivery](https://go.vansh.nyc/172) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Data Engineer, Data Platform - Global Live](https://go.vansh.nyc/174) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Local Service](https://go.vansh.nyc/179) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)](https://go.vansh.nyc/17f) | Seattle, WA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation](https://go.vansh.nyc/17h) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Backend Software Engineer, Data Lifecycle Management](https://go.vansh.nyc/17i) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Visual Search](https://go.vansh.nyc/17j) | San Jose, CA | 0d |
-| **TikTok** | [New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture](https://go.vansh.nyc/17m) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness](https://go.vansh.nyc/14H) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastruct…](https://go.vansh.nyc/14I) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastruct…](https://go.vansh.nyc/14J) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14N) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Netwo…](https://go.vansh.nyc/14O) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform](https://go.vansh.nyc/14P) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14Q) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning Backend Engineer (AML MLDev)](https://go.vansh.nyc/14R) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14T) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Lea…](https://go.vansh.nyc/14V) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engin…](https://go.vansh.nyc/14X) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World…](https://go.vansh.nyc/14Z) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/150) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)](https://go.vansh.nyc/151) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/153) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML…](https://go.vansh.nyc/154) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - Speech)](https://go.vansh.nyc/157) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US)](https://go.vansh.nyc/159) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Large Language Model Inference System Engineer (Applied Machine…](https://go.vansh.nyc/15a) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Dev AI Software Engineer (Dev Infra US)](https://go.vansh.nyc/15b) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Sche…](https://go.vansh.nyc/15g) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engin…](https://go.vansh.nyc/15h) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15i) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: AI Agent Security Software Engineer (Security Engineering)](https://go.vansh.nyc/15j) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15k) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Schedu…](https://go.vansh.nyc/15l) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: LLM Backend Engineer (Applied Machine Learning)](https://go.vansh.nyc/15m) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Large Language Model Training System Engineer (Applied Machine L…](https://go.vansh.nyc/15o) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer, AI Infra Compute (Master's)](https://go.vansh.nyc/15p) | Seattle, WA | 0d |
-| **ByteDance** | [New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/15r) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML…](https://go.vansh.nyc/15s) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global…](https://go.vansh.nyc/15u) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)](https://go.vansh.nyc/15v) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Site Reliability Graduate (Data Infrastructure)](https://go.vansh.nyc/15y) | San Jose, CA | 0d |
-| **ByteDance** | [New Grad 2027: Test Software Engineer, Douyin Research and Development Middle P…](https://go.vansh.nyc/15C) | San Jose, CA | 0d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Emerging Products & AI Safety](https://go.vansh.nyc/15M) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy)](https://go.vansh.nyc/15P) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Research Scientist (Ads Creative) (Master's)](https://go.vansh.nyc/15Q) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (Ads Signal & Measurement)](https://go.vansh.nyc/15U) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Research Scientist, TikTok Recommendation](https://go.vansh.nyc/15V) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Recommendation](https://go.vansh.nyc/15X) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (Data Arch - E-commerce)](https://go.vansh.nyc/15Z) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Data Engineer, Monetization Data](https://go.vansh.nyc/160) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alli…](https://go.vansh.nyc/161) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Commerce Ads](https://go.vansh.nyc/162) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alli…](https://go.vansh.nyc/164) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics](https://go.vansh.nyc/165) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Live)](https://go.vansh.nyc/166) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: ML Infra Engineer, Ads Infra](https://go.vansh.nyc/168) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)](https://go.vansh.nyc/169) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)](https://go.vansh.nyc/16a) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (Commercial AI-CRM and Transaction) (M…](https://go.vansh.nyc/16i) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Search Quality](https://go.vansh.nyc/16j) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16k) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Research Scientist, Monetization Technology - Business Integrity…](https://go.vansh.nyc/16l) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16m) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16p) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall](https://go.vansh.nyc/16r) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)](https://go.vansh.nyc/16t) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation](https://go.vansh.nyc/16v) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-…](https://go.vansh.nyc/16x) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team)](https://go.vansh.nyc/16A) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Performance Monetization](https://go.vansh.nyc/16B) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (Ads Targeting)](https://go.vansh.nyc/16C) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Brand Ads (Master's)](https://go.vansh.nyc/16D) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: AI Engineer (Client Arch)](https://go.vansh.nyc/16G) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Software Development Engineer (Global E-Commerce-Quality Platfor…](https://go.vansh.nyc/16H) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (TikTok-Data-Search-Recommendation-Glo…](https://go.vansh.nyc/16N) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Data Scientist (Multimedia) (Master's)](https://go.vansh.nyc/16O) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (App Ads and Gaming)](https://go.vansh.nyc/16S) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Data Scientist (Multimedia)](https://go.vansh.nyc/16V) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16W) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Research Engineer, Monetization Technology - Business Integrity…](https://go.vansh.nyc/16X) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: LLM Post-training Engineer (Research & Product)](https://go.vansh.nyc/16Y) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Gl…](https://go.vansh.nyc/16Z) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)](https://go.vansh.nyc/171) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Ads Delivery](https://go.vansh.nyc/172) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Data Engineer, Data Platform - Global Live](https://go.vansh.nyc/174) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Local Service](https://go.vansh.nyc/179) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)](https://go.vansh.nyc/17f) | Seattle, WA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation](https://go.vansh.nyc/17h) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Backend Software Engineer, Data Lifecycle Management](https://go.vansh.nyc/17i) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Visual Search](https://go.vansh.nyc/17j) | San Jose, CA | 1d |
+| **TikTok** | [New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture](https://go.vansh.nyc/17m) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness](https://go.vansh.nyc/14H) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastruct…](https://go.vansh.nyc/14I) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastruct…](https://go.vansh.nyc/14J) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14N) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Netwo…](https://go.vansh.nyc/14O) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform](https://go.vansh.nyc/14P) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14Q) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning Backend Engineer (AML MLDev)](https://go.vansh.nyc/14R) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14T) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Lea…](https://go.vansh.nyc/14V) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engin…](https://go.vansh.nyc/14X) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World…](https://go.vansh.nyc/14Z) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/150) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)](https://go.vansh.nyc/151) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/153) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML…](https://go.vansh.nyc/154) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist (Seed Model - Speech)](https://go.vansh.nyc/157) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US)](https://go.vansh.nyc/159) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Large Language Model Inference System Engineer (Applied Machine…](https://go.vansh.nyc/15a) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Dev AI Software Engineer (Dev Infra US)](https://go.vansh.nyc/15b) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Sche…](https://go.vansh.nyc/15g) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engin…](https://go.vansh.nyc/15h) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15i) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: AI Agent Security Software Engineer (Security Engineering)](https://go.vansh.nyc/15j) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15k) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Schedu…](https://go.vansh.nyc/15l) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: LLM Backend Engineer (Applied Machine Learning)](https://go.vansh.nyc/15m) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Large Language Model Training System Engineer (Applied Machine L…](https://go.vansh.nyc/15o) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer, AI Infra Compute (Master's)](https://go.vansh.nyc/15p) | Seattle, WA | 1d |
+| **ByteDance** | [New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/15r) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML…](https://go.vansh.nyc/15s) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global…](https://go.vansh.nyc/15u) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)](https://go.vansh.nyc/15v) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Site Reliability Graduate (Data Infrastructure)](https://go.vansh.nyc/15y) | San Jose, CA | 1d |
+| **ByteDance** | [New Grad 2027: Test Software Engineer, Douyin Research and Development Middle P…](https://go.vansh.nyc/15C) | San Jose, CA | 1d |
 | **Verisk** | [Data Scientist](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093) | London, UK, Norwich, UK | 1d |
 | **NVIDIA** | [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Seattle, WA, Austin, TX +2 | 2d |
 | **NVIDIA** | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Canada, Santa Clara, CA +1 | 2d |
 | **Ascension** | [Data Analyst](https://jobs.ascension.org/us/en/job/24746) | St. Louis, MO | 2d |
 | **Bristol Myers Squibb** | [Associate Engineer - Analytical AI Engineering](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005) | Princeton, NJ | 2d |
 
-_+293 more not shown_
+_+289 more not shown_
 
 <a id="newgrad-quant"></a>
 
@@ -959,7 +959,7 @@ _+293 more not shown_
 | **MUFG** | [UK Analyst Programme](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme-_10080071-WD) | London, UK | 24d |
 | **Fasanara** | [High-Frequency Trading Operations Engineer](https://apply.workable.com/fasanara/j/188FC5244B/apply) | London, UK | 24d |
 | **Graham Capital Management** | [Quantitative Trading and Research Operations Developer](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005) | Norwalk, CT | 25d |
-| **Fanatics** | [Quantitative Analyst 1](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009) | Denver, CO | 26d |
+| **Fanatics** | [Quantitative Analyst 1](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009) | Denver, CO | 27d |
 
 <a id="newgrad-pm"></a>
 
@@ -967,7 +967,7 @@ _+293 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **Huntington Ingalls Industries** | [Product Owner - Digital Plant](https://careers.huntingtoningalls.com/job/Newport-News-PRODUCT-OWNER-DIGITAL-PLANT-Virg/1446303400/?ats=successfactors) | Newport News, VA | 0d |
+| **Huntington Ingalls Industries** | [Product Owner - Digital Plant](https://careers.huntingtoningalls.com/job/Newport-News-PRODUCT-OWNER-DIGITAL-PLANT-Virg/1446303400/?ats=successfactors) | Newport News, VA | 1d |
 | **TikTok** | [Product Solutions and Operations New Grad - Global Monetization Product and Tec…](https://lifeattiktok.com/search/7702517151362976053) | San Jose, CA | 2d |
 | **Wise** | [New Grad 2027: Product Analyst](https://go.vansh.nyc/10u) | Austin, TX | 2d |
 | **Raydar** | [Product Manager](https://apply.workable.com/raydar/j/C80D888AC4/apply) | SF | 3d |
@@ -979,7 +979,7 @@ _+293 more not shown_
 | **RSM** | [Tax Technology Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Tax-Technology-Associate--Fall-2027-Winter-2028-_JR122002-1) | Denver, CO | 5d |
 | **T-Mobile** | [Associate Product Manager - App](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1) | Bellevue, WA | 5d |
 | **Abbott** | [Associate Product Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697-1) | Madison, WI | 6d |
-| **TikTok** | [Product Manager New Grad - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7680761598014015797) | San Jose, CA | 6d |
+| **TikTok** | [Product Manager New Grad - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7680761598014015797) | San Jose, CA | 7d |
 | **Abound** | [Product Associate](https://jobs.ashbyhq.com/Abound/dfe15080-f428-4053-ac93-0a1a769634a1/application?embed=true) | London, UK | 7d |
 | **Jerry** | [Product Manager-in-Training](https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application?embed=true) | Palo Alto, CA | 7d |
 | **Carvana** | [Product Manager](https://www.carvana.com/careers/apply?gh_jid=7543098) | Tempe, AZ | 9d |
@@ -997,7 +997,7 @@ _+293 more not shown_
 | **WPP** | [Product Manager](https://job-boards.greenhouse.io/wpp/jobs/8887554002) | United Kingdom | 18d |
 | **Trove Brands** | [Brand Marketing Associate - Core & Campaign](https://job-boards.greenhouse.io/trovebrands/jobs/4450961009) | Lehi, UT | 19d |
 | **CWILL** | [Product Management Trainee](https://apply.workable.com/cwill-us/j/DC0FEF1210/apply) | Cary, NC | 19d |
-| **Zimmer Biomet Holdings** | [Associate Product Manager - Upstream Marketing - NPI Strategy](https://careers.zimmerbiomet.com/us/en/job/13127) | Englewood, CO | 19d |
+| **Zimmer Biomet Holdings** | [Associate Product Manager - Upstream Marketing - NPI Strategy](https://careers.zimmerbiomet.com/us/en/job/13127) | Englewood, CO | 20d |
 | **Broadridge** | [Product Analyst - Virtual Events and Shareholder Meetings](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Product-Analyst---Virtual-Events-and-Shareholder-Meetings_JR1086459) | Hunter, NY, NYC | 20d |
 | **Clairo** | [Associate Product Manager](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374) | Remote in USA, Remote in Canada | 20d |
 | **LSEG** | [Senior Associate Product Manager - Enterprise AI](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Edinburgh-United-Kingdom/Senior-Associate-Product-Manager--Enterprise-AI_R0124289) | Edinburgh, UK | 20d |
@@ -1024,12 +1024,13 @@ _+293 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
+| **Qualcomm** | [Associate Calibration Engineer - Calibration Engineering](https://qualcomm.eightfold.ai/careers/job/446721831785) | San Diego, CA | 0d |
 | **Analogue Insight** | [Graduate Digital Design Engineer](https://analogueinsight.careers.hibob.com/jobs/03aa2997-29f6-403e-a342-ebd7fab09731) | Remote in UK | 0d |
 | **Analogue Insight** | [Graduate Analog Design Engineer](https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67) | Remote in UK | 0d |
 | **Analogue Insight** | [Custom Layout Engineer Graduate](https://analogueinsight.careers.hibob.com/jobs/37087e78-8866-45b4-b36e-8c24290b9ec2) | Remote in UK | 0d |
-| **Amazon** | [New Grad 2027: ASIC Engineer I, Annapurna Labs](https://go.vansh.nyc/17n) | Cupertino, CA | 0d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, Search-Basic Ranking](https://go.vansh.nyc/16I) | San Jose, CA | 0d |
-| **Amazon** | [Hardware Development Engineer 1 - Drone Engineering](https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering) | Seattle, WA | 1d |
+| **Amazon** | [New Grad 2027: ASIC Engineer I, Annapurna Labs](https://go.vansh.nyc/17n) | Cupertino, CA | 1d |
+| **TikTok** | [New Grad 2027: Machine Learning Engineer, Search-Basic Ranking](https://go.vansh.nyc/16I) | San Jose, CA | 1d |
+| **Amazon** | [Hardware Development Engineer 1 - Drone Engineering](https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering) | Seattle, WA | 2d |
 | **Tesla** | [Camera Technician](https://www.tesla.com/careers/search/job/288361) | Palo Alto, CA | 2d |
 | **NVIDIA** | [ASIC Design Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391) | Austin, TX | 2d |
 | **NVIDIA** | [Software Engineer, Hardware Tools and Methodology (Master's)](https://go.vansh.nyc/11G) | Santa Clara, CA | 2d |
@@ -1040,7 +1041,7 @@ _+293 more not shown_
 | **NVIDIA** | [ASIC Design Verification Engineer (Master's)](https://go.vansh.nyc/11C) | Austin, TX | 2d |
 | **NVIDIA** | [New Grad 2027: ASIC Verification Engineer, Memory Management](https://go.vansh.nyc/11l) | Durham, NC, Madison, AL +1 | 2d |
 | **Kairos Power** | [Firmware Development Engineer](https://job-boards.greenhouse.io/kairospower/jobs/6193295004) | Alameda, CA | 2d |
-| **Microsoft** | [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) | Redmond, WA, Mountain View, CA | 2d |
+| **Microsoft** | [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) | Redmond, WA, Mountain View, CA | 3d |
 | **Analog Devices** | [Associate Design Evaluation Engineer](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Design-Evaluation-Engineer_R268367) | Wilmington, MA | 3d |
 | **Broadcom** | [Physical Design Engineer New Grad - ASIC Products Division (APD)](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516) | San Jose, CA | 3d |
 | **Broadcom** | [Physical Design Engineer - ASIC Products Division](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027588) | San Jose, CA | 3d |
@@ -1079,7 +1080,7 @@ _+293 more not shown_
 | **Astronics** | [Electrical Engineer 1](https://job-boards.greenhouse.io/astronicscorporation/jobs/4470247009) | Clackamas County, OR | 4d |
 | **Formlabs** | [Electrical Engineer](https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686) | Boston, MA | 4d |
 | **Applied Medical** | [Electrical Technician 1](https://careers.appliedmedical.com/jobs/15338?icims=1) | Rancho Santa Margarita, CA | 4d |
-| **RosaicLabs** | [AI Accelerator RTL Microarchitecture/Design Engineer](https://jobs.lever.co/rosaiclabs/261df0f6-b4c6-4711-a5ee-a0bb67bcb840/apply) | Remote in India, Austin, TX +1 | 4d |
+| **RosaicLabs** | [AI Accelerator RTL Microarchitecture/Design Engineer](https://jobs.lever.co/rosaiclabs/261df0f6-b4c6-4711-a5ee-a0bb67bcb840/apply) | Remote in India, Austin, TX +1 | 5d |
 | **NUVACORE** | [CPU Design & Verification Engineer](https://jobs.lever.co/nuvacore/0fa8362f-cff1-408b-a55f-18725dc311a1/apply) | Austin, TX, Santa Clara, CA +1 | 5d |
 | **Ciena** | [Routing/IP Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006) | Ottawa, ON, Canada | 5d |
 | **Flextronics International** | [Debug Technician](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Debug-Technician_WD232267) | Austin, TX | 5d |
@@ -1123,9 +1124,8 @@ _+293 more not shown_
 | **Amazon** | [ASIC Formal Verification Engineer 1](https://amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs) | Austin, TX, Cupertino, CA | 10d |
 | **Amazon** | [Software Development Engineer - Embedded Systems](https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us) | Seattle, WA, Austin, TX +7 | 10d |
 | **Amazon** | [ASIC Engineer Early Career](https://amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo) | Redmond, WA, Cupertino, CA +1 | 10d |
-| **Amazon** | [ASIC Engineer - Project Leo](https://amazon.jobs/en/jobs/3176560/asic-engineer-project-leo) | Austin, TX, Redmond, WA +2 | 10d |
 
-_+175 more not shown_
+_+176 more not shown_
 
 <a id="newgrad-other"></a>
 
