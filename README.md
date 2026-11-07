@@ -4,9 +4,9 @@
 
 **Every tech internship and new grad role from the top GitHub job lists, in one place.**
 
-![Open Roles](https://img.shields.io/badge/Open%20Roles-4455-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-147-orange) ![Companies](https://img.shields.io/badge/Companies-1308-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
+![Open Roles](https://img.shields.io/badge/Open%20Roles-4451-brightgreen) ![Posted Today](https://img.shields.io/badge/Posted%20Today-115-orange) ![Companies](https://img.shields.io/badge/Companies-1312-blue) ![Stars](https://img.shields.io/github/stars/Corey-rp/job-feed-bot?style=flat&color=yellow)
 
-_Last updated: Nov 07, 2026 13:24 UTC_
+_Last updated: Nov 07, 2026 18:09 UTC_
 
 </div>
 
@@ -24,9 +24,9 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 
 ## Jump to
 
-**Internships:** [💻 Software Engineering (1107)](#intern-swe) · [🎨 Front End (46)](#intern-frontend) · [🤖 Data / AI / ML (1205)](#intern-data) · [📈 Quant (52)](#intern-quant) · [📱 Product (109)](#intern-pm) · [🔧 Hardware (459)](#intern-hardware) · [🧩 Other (104)](#intern-other)
+**Internships:** [💻 Software Engineering (1107)](#intern-swe) · [🎨 Front End (46)](#intern-frontend) · [🤖 Data / AI / ML (1205)](#intern-data) · [📈 Quant (52)](#intern-quant) · [📱 Product (109)](#intern-pm) · [🔧 Hardware (453)](#intern-hardware) · [🧩 Other (107)](#intern-other)
 
-**New Grads:** [💻 Software Engineering (554)](#newgrad-swe) · [🎨 Front End (27)](#newgrad-frontend) · [🤖 Data / AI / ML (389)](#newgrad-data) · [📈 Quant (27)](#newgrad-quant) · [📱 Product (45)](#newgrad-pm) · [🔧 Hardware (315)](#newgrad-hardware) · [🧩 Other (16)](#newgrad-other)
+**New Grads:** [💻 Software Engineering (557)](#newgrad-swe) · [🎨 Front End (27)](#newgrad-frontend) · [🤖 Data / AI / ML (389)](#newgrad-data) · [📈 Quant (27)](#newgrad-quant) · [📱 Product (45)](#newgrad-pm) · [🔧 Hardware (311)](#newgrad-hardware) · [🧩 Other (16)](#newgrad-other)
 
 ---
 
@@ -38,6 +38,11 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 
 | Company | Role | Location | Age |
 |---|---|---|---|
+| **Dayton Freight** | [Software Developer Intern](https://go.vansh.nyc/1m9) | Dayton, OH | 0d |
+| **empirical** | [Software Engineering Intern](https://go.vansh.nyc/1mg) | Dakota Dunes, SD | 0d |
+| **Kinaxis** | [Full Stack Developer Intern, C#](https://go.vansh.nyc/1mc) | Ottawa, Canada | 0d |
+| **Kinaxis** | [Developer Intern, Back End Technologies](https://go.vansh.nyc/1md) | Ottawa, Canada | 0d |
+| **Springs Window Fashions** | [Software Engineering Intern](https://go.vansh.nyc/1mf) | Long Island City, NY | 0d |
 | **Corning** | [HPC DevOps Engineer Intern, Science & Technology](https://go.vansh.nyc/1lY) | Corning, NY | 0d |
 | **Zoox** | [AI Workflows & Safety Decision Making Intern](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply) | Foster City, CA | 0d |
 | **Category Labs** | [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) | NYC | 0d |
@@ -64,28 +69,28 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 | **Keysight Technologies** | [Agentic AI PhD Intern - Modeling Agent](https://jobs.keysight.com/jobs/54739?icims=1&lang=en-us) | Santa Rosa, CA, Calabasas, CA | 0d |
 | **Hootsuite** | [DevOps Co-op](https://go.vansh.nyc/1l0) | Canada | 0d |
 | **Notion** | [Software Engineering Intern, iOS](https://go.vansh.nyc/1kQ) | New York, NY | 0d |
-| **T-Mobile** | [Software Engineering Intern](https://go.vansh.nyc/1kB) | Bellevue, WA | 0d |
-| **Samsara** | [Software Engineering Intern](https://go.vansh.nyc/1kA) | San Francisco, CA | 0d |
-| **Samsara** | [Software Engineer Intern](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | SF | 0d |
-| **Invitation-charter** | [Software Engineer Intern](https://go.vansh.nyc/1kv) | Englewood, CO | 0d |
-| **Tinder** | [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) | Palo Alto, CA, LA | 0d |
-| **Tinder** | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) | LA | 0d |
-| **Tinder** | [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply) | Palo Alto, CA, LA | 0d |
-| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract) | London, UK | 0d |
-| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract) | Edinburgh, UK | 0d |
-| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract) | Swansea, UK | 0d |
-| **Globus Medical** | [Software Co-op](https://go.vansh.nyc/1kn) | Methuen, MA | 0d |
-| **The New York Times** | [Interactive News Engineering Intern](https://go.vansh.nyc/1km) | New York, NY | 0d |
-| **The New York Times** | [Interactive News Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | NYC | 0d |
-| **Alaska Airlines** | [Software Engineer Intern](https://go.vansh.nyc/1kc) | SeaTac, WA | 0d |
-| **Alaska Airlines** | [Cybersecurity Threat Defense Intern](https://go.vansh.nyc/1kd) | SeaTac, WA | 0d |
-| **Alaska Airlines** | [Software Delivery Platform Intern](https://go.vansh.nyc/1ke) | SeaTac, WA | 0d |
-| **DocuSign** | [Software Engineering Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/1kf) | Seattle, WA | 0d |
-| **Intercontinental Exchange, Inc.** | [Software Engineering Intern](https://go.vansh.nyc/1k6) | Jacksonville, FL | 0d |
-| **Intercontinental Exchange, Inc.** | [Application Security Intern](https://go.vansh.nyc/1k7) | Jacksonville, FL | 0d |
-| **W.R. Berkley** | [Software Developer Intern, .NET](https://go.vansh.nyc/1k4) | Urbandale, IA | 0d |
-| **Western & Southern Financial Group** | [Software Developer Intern, Agency Systems](https://go.vansh.nyc/1k9) | Cincinnati, OH | 0d |
-| **Waymo** | [Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) | SF | 0d |
+| **T-Mobile** | [Software Engineering Intern](https://go.vansh.nyc/1kB) | Bellevue, WA | 1d |
+| **Samsara** | [Software Engineering Intern](https://go.vansh.nyc/1kA) | San Francisco, CA | 1d |
+| **Samsara** | [Software Engineer Intern](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | SF | 1d |
+| **Invitation-charter** | [Software Engineer Intern](https://go.vansh.nyc/1kv) | Englewood, CO | 1d |
+| **Tinder** | [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) | Palo Alto, CA, LA | 1d |
+| **Tinder** | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) | LA | 1d |
+| **Tinder** | [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply) | Palo Alto, CA, LA | 1d |
+| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract) | London, UK | 1d |
+| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract) | Edinburgh, UK | 1d |
+| **Amazon** | [Software Development Engineer Apprentice](https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract) | Swansea, UK | 1d |
+| **Globus Medical** | [Software Co-op](https://go.vansh.nyc/1kn) | Methuen, MA | 1d |
+| **The New York Times** | [Interactive News Engineering Intern](https://go.vansh.nyc/1km) | New York, NY | 1d |
+| **The New York Times** | [Interactive News Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | NYC | 1d |
+| **Alaska Airlines** | [Software Engineer Intern](https://go.vansh.nyc/1kc) | SeaTac, WA | 1d |
+| **Alaska Airlines** | [Cybersecurity Threat Defense Intern](https://go.vansh.nyc/1kd) | SeaTac, WA | 1d |
+| **Alaska Airlines** | [Software Delivery Platform Intern](https://go.vansh.nyc/1ke) | SeaTac, WA | 1d |
+| **DocuSign** | [Software Engineering Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/1kf) | Seattle, WA | 1d |
+| **Intercontinental Exchange, Inc.** | [Software Engineering Intern](https://go.vansh.nyc/1k6) | Jacksonville, FL | 1d |
+| **Intercontinental Exchange, Inc.** | [Application Security Intern](https://go.vansh.nyc/1k7) | Jacksonville, FL | 1d |
+| **W.R. Berkley** | [Software Developer Intern, .NET](https://go.vansh.nyc/1k4) | Urbandale, IA | 1d |
+| **Western & Southern Financial Group** | [Software Developer Intern, Agency Systems](https://go.vansh.nyc/1k9) | Cincinnati, OH | 1d |
+| **Waymo** | [Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) | SF | 1d |
 | **ASM International** | [Product Intelligence Engineering Intern - AI/ML](https://www.asm.com/open-vacancies/?gh_jid=5029228101) | Phoenix, AZ | 1d |
 | **Match Group** | [Backend Engineer Intern](https://go.vansh.nyc/1kj) | Palo Alto, CA, Los Angeles, CA | 1d |
 | **Match Group** | [Android Engineer Intern](https://go.vansh.nyc/1ko) | Los Angeles, CA | 1d |
@@ -126,18 +131,13 @@ The table updates automatically every 15 minutes and shows roles posted in the l
 | **CareSource** | [Cybersecurity Intern](https://go.vansh.nyc/1je) | Remote, United States | 1d |
 | **BorgWarner** | [Software Test Intern](https://go.vansh.nyc/1jb) | Auburn Hills, MI | 1d |
 | **Apex Technology, Inc.** | [Ground Software Engineering Intern](https://go.vansh.nyc/1jo) | Los Angeles, CA | 1d |
-| **Nelnet** | [Platform Engineer Intern](https://go.vansh.nyc/1iO) | Mississauga, Canada | 1d |
-| **Shield AI** | [Software Engineer Co-op](https://go.vansh.nyc/1iN) | Dallas, TX, Washington, DC +2 | 1d |
-| **Element Fleet Management** | [Forward Deployed Engineer (FDE) Intern](https://go.vansh.nyc/1iM) | Toronto, Canada | 1d |
-| **Shield** | [Software Engineer Co-op](https://go.vansh.nyc/1iW) | Dallas, TX | 1d |
-| **DwyerOmega** | [Cyber Resilience & Product Security Intern](https://go.vansh.nyc/1kY) | Michigan City, IN | 1d |
-| **RTX** | [Systems Security Engineer Intern](https://go.vansh.nyc/1iL) 🇺🇸 | Tewksbury, MA | 1d |
-| **Acumatica** | [Developer Intern](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | Montreal, QC, Canada | 1d |
-| **Acumatica** | [Developer Intern](https://go.vansh.nyc/1iT) | Montreal, Canada | 1d |
-| **The Federal Reserve System** | [Information Security Intern](https://go.vansh.nyc/1iJ) | Atlanta, GA | 1d |
-| **Johns Hopkins Applied Physics Laboratory** | [Maritime Software Development Intern - Maritime Software Development - Ocean Sy…](https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us) | Laurel, MD | 1d |
-| **Valley Children's Specialty Medical Gro…** | [IT Security Intern](https://go.vansh.nyc/1kN) | Madera, CA | 1d |
-| **Kimball Electronics** | [Cybersecurity Intern](https://go.vansh.nyc/1iy) | Remote, United States | 1d |
+| **Nelnet** | [Platform Engineer Intern](https://go.vansh.nyc/1iO) | Mississauga, Canada | 2d |
+| **Shield AI** | [Software Engineer Co-op](https://go.vansh.nyc/1iN) | Dallas, TX, Washington, DC +2 | 2d |
+| **Element Fleet Management** | [Forward Deployed Engineer (FDE) Intern](https://go.vansh.nyc/1iM) | Toronto, Canada | 2d |
+| **Shield** | [Software Engineer Co-op](https://go.vansh.nyc/1iW) | Dallas, TX | 2d |
+| **DwyerOmega** | [Cyber Resilience & Product Security Intern](https://go.vansh.nyc/1kY) | Michigan City, IN | 2d |
+| **RTX** | [Systems Security Engineer Intern](https://go.vansh.nyc/1iL) 🇺🇸 | Tewksbury, MA | 2d |
+| **Acumatica** | [Developer Intern](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | Montreal, QC, Canada | 2d |
 
 _+1007 more not shown_
 
@@ -166,29 +166,29 @@ _+1007 more not shown_
 | **TikTok** | [Frontend Engineer Intern, Ads Interface](https://go.vansh.nyc/17T) | San Jose, CA | 6d |
 | **TikTok** | [Frontend Engineer Project Intern, Multimedia Arch](https://go.vansh.nyc/18z) | San Jose, CA | 6d |
 | **ByteDance** | [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u) | San Jose, CA | 6d |
-| **Samsung Semiconductor** | [SRAM Design Engineer Intern](https://go.vansh.nyc/10P) | San Jose, CA | 7d |
+| **Samsung Semiconductor** | [SRAM Design Engineer Intern](https://go.vansh.nyc/10P) | San Jose, CA | 8d |
 | **OLG** | [Front End Developer Student Intern](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) | Toronto, ON, Canada, Sault Ste. Marie, ON, C… | 8d |
 | **OLG** | [Front End Developer Intern](https://go.vansh.nyc/11s) | Toronto, Canada, Sault Ste. Marie, Canada | 8d |
-| **Interco** | [Software Development Intern - Software Development - React](https://jobs.smartrecruiters.com/Interco/744000158581114) | St. Louis, MO | 8d |
-| **Interco** | [Software Development Intern, React](https://go.vansh.nyc/Zy) | St. Louis, MO | 8d |
+| **Interco** | [Software Development Intern - Software Development - React](https://jobs.smartrecruiters.com/Interco/744000158581114) | St. Louis, MO | 9d |
+| **Interco** | [Software Development Intern, React](https://go.vansh.nyc/Zy) | St. Louis, MO | 9d |
 | **Disney** | [Full Stack Web Development Intern, Walt Disney Animation Studios](https://go.vansh.nyc/YM) | Burbank, CA | 9d |
 | **Qualcomm** | [Camera Design Engineering Intern](https://go.vansh.nyc/Yi) | Vancouver, Canada | 9d |
 | **Certa** | [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | London, UK, Remote in India +2 | 10d |
 | **Certa** | [Frontend Engineer Intern](https://go.vansh.nyc/Xa) | San Francisco, CA | 10d |
-| **Cboe Global Markets** | [Linux Engineer Intern](https://go.vansh.nyc/W4) | Chicago, IL, Kansas City, MO +1 | 10d |
+| **Cboe Global Markets** | [Linux Engineer Intern](https://go.vansh.nyc/W4) | Chicago, IL, Kansas City, MO +1 | 11d |
 | **Texas Instruments** | [Web Marketing Intern, Front-end Developer](https://go.vansh.nyc/Wf) | Dallas, TX | 11d |
 | **ASML** | [Frontend Developer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) | San Jose, CA | 11d |
 | **Skydio** | [Product Design Engineer Intern](https://go.vansh.nyc/BB) | San Mateo, CA | 13d |
 | **Skydio** | [Frontend Software Engineer Intern](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true) | San Mateo, CA | 15d |
-| **KRAFTON** | [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) | Montreal, QC, Canada | 15d |
-| **KRAFTON** | [UI Programming Intern](https://go.vansh.nyc/hY) | Montreal, Canada | 15d |
+| **KRAFTON** | [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) | Montreal, QC, Canada | 16d |
+| **KRAFTON** | [UI Programming Intern](https://go.vansh.nyc/hY) | Montreal, Canada | 16d |
 | **Aptiv** | [Linux Engineering Intern](https://go.vansh.nyc/eM) | Kanata, Canada | 16d |
 | **Aptiv** | [Linux Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Kanata, Ottawa, ON, Canada | 16d |
 | **Survalent** | [Web Developer Co-op, Quality and Infrastructure](https://go.vansh.nyc/D4) | Mississauga, Canada | 17d |
 | **Micron Technology** | [Design Engineer Intern, Pathfinding](https://go.vansh.nyc/d7) | San Jose, CA, Folsom, CA | 18d |
 | **Micron Technology** | [Design Engineer Intern, HBM](https://go.vansh.nyc/bq) | Richardson, TX | 18d |
-| **Electronic Arts** | [Software Engineer Intern - Gameplay UI](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) | Birmingham, UK | 21d |
-| **Electronic Arts** | [UI Scripter Intern](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359) | Guildford, UK | 21d |
+| **Electronic Arts** | [Software Engineer Intern - Gameplay UI](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) | Birmingham, UK | 22d |
+| **Electronic Arts** | [UI Scripter Intern](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359) | Guildford, UK | 22d |
 | **Texas Instruments** | [Web Marketing Intern - Front-end Developer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753) | Dallas, TX | 22d |
 | **Armadin** | [Frontend Engineer Intern - Member of Technical Staff](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true) | Palo Alto, CA | 24d |
 | **Armadin** | [Member of Technical Staff Intern, Frontend](https://go.vansh.nyc/8v) | Palo Alto, CA | 25d |
@@ -200,6 +200,9 @@ _+1007 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
+| **Kinaxis** | [Developer Co-op, Machine Learning](https://go.vansh.nyc/1mb) | Remote, United States | 0d |
+| **Riverside Research** | [Formal Methods Research Intern](https://go.vansh.nyc/1mh) 🇺🇸 | Lexington, MA | 0d |
+| **Springs Window Fashions** | [Textile Engineering Analytics & Software Intern](https://go.vansh.nyc/1me) | Middleton, WI | 0d |
 | **Zoox** | [Safety Reporting & Benchmarking Intern](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) | Foster City, CA | 0d |
 | **Zoox** | [Data Scientist Intern](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) | Boston, MA, Foster City, CA | 0d |
 | **TikTok** | [Research Engineer Intern](https://lifeattiktok.com/search/7704981006856145205) | San Jose, CA | 0d |
@@ -230,19 +233,19 @@ _+1007 more not shown_
 | **Rivian** | [ML AI Motor Controls Algorithm Intern](https://go.vansh.nyc/1kS) | Champaign, IL | 0d |
 | **Keysight Technologies** | [Machine Learning PhD Intern - Modeling and Data Analysis](https://jobs.keysight.com/jobs/54742?icims=1&lang=en-us) | Santa Rosa, CA, Calabasas, CA | 0d |
 | **Duolingo** | [AI Research Intern](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) | Pittsburgh, PA, NYC | 0d |
-| **T-Mobile** | [Software Engineer Intern, HR Data Products](https://go.vansh.nyc/1kD) | Bellevue, WA | 0d |
-| **Invitation-charter** | [Data Science Intern](https://go.vansh.nyc/1ku) | Greenwood Village, CO | 0d |
-| **Invitation-charter** | [Data Developer Intern](https://go.vansh.nyc/1kw) | Greenwood Village, CO | 0d |
-| **Elucid** | [Machine Learning PhD Intern](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027) | Boston, MA | 0d |
-| **Toyota Research Institute** | [Robotics Intern - World Action Models for Robot Policy](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply) | Cambridge, MA | 0d |
-| **Tinder** | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | 0d |
-| **Tinder** | [Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) | Palo Alto, CA | 0d |
-| **ITT** | [Data Analytics / AI Intern](https://go.vansh.nyc/1kq) | Irvine, CA | 0d |
-| **Amazon** | [Data Analyst Apprentice](https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract) | London, UK | 0d |
-| **Cummins** | [Data Analytics Placement Student Intern](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) | Darlington, UK | 0d |
-| **Rivian** | [Intern - Multiple Teams](https://careers.rivian.com/jobs/35896?icims=1&lang=en-us) | Champaign, IL | 0d |
-| **Robert Bosch Venture Capital** | [Vision-Language-Action Research Intern - Vision-Language-Action](https://jobs.smartrecruiters.com/BoschGroup/744000160212170) | Sunnyvale, CA | 0d |
-| **Robert Bosch Venture Capital** | [Motorsport Software and Data Analytics Graduate Intern](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) | Farmington Hills, MI | 0d |
+| **T-Mobile** | [Software Engineer Intern, HR Data Products](https://go.vansh.nyc/1kD) | Bellevue, WA | 1d |
+| **Invitation-charter** | [Data Science Intern](https://go.vansh.nyc/1ku) | Greenwood Village, CO | 1d |
+| **Invitation-charter** | [Data Developer Intern](https://go.vansh.nyc/1kw) | Greenwood Village, CO | 1d |
+| **Elucid** | [Machine Learning PhD Intern](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027) | Boston, MA | 1d |
+| **Toyota Research Institute** | [Robotics Intern - World Action Models for Robot Policy](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply) | Cambridge, MA | 1d |
+| **Tinder** | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | 1d |
+| **Tinder** | [Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) | Palo Alto, CA | 1d |
+| **ITT** | [Data Analytics / AI Intern](https://go.vansh.nyc/1kq) | Irvine, CA | 1d |
+| **Amazon** | [Data Analyst Apprentice](https://amazon.jobs/en/jobs/10598579/data-analyst-apprentice-42-month-fixed-term-contract) | London, UK | 1d |
+| **Cummins** | [Data Analytics Placement Student Intern](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) | Darlington, UK | 1d |
+| **Rivian** | [Intern - Multiple Teams](https://careers.rivian.com/jobs/35896?icims=1&lang=en-us) | Champaign, IL | 1d |
+| **Robert Bosch Venture Capital** | [Vision-Language-Action Research Intern - Vision-Language-Action](https://jobs.smartrecruiters.com/BoschGroup/744000160212170) | Sunnyvale, CA | 1d |
+| **Robert Bosch Venture Capital** | [Motorsport Software and Data Analytics Graduate Intern](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) | Farmington Hills, MI | 1d |
 | **Match Group** | [Data Scientist Intern](https://go.vansh.nyc/1kk) | San Francisco, CA | 1d |
 | **ASM** | [Product Intelligence Engineering Intern, AI/ML](https://go.vansh.nyc/1jZ) | Phoenix, AZ | 1d |
 | **Match Group** | [Machine Learning Engineer Intern](https://go.vansh.nyc/1kl) | Palo Alto, CA | 1d |
@@ -296,10 +299,7 @@ _+1007 more not shown_
 | **Two Six Technologies** | [Research Intern](https://go.vansh.nyc/1jx) 🇺🇸 | Dayton, OH | 1d |
 | **Booz Allen Hamilton** | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1iU) 🇺🇸 | McLean, VA | 1d |
 | **Palantir Technologies** | [Software Engineer Intern, Sovereign AI Systems](https://go.vansh.nyc/1j0) | New York, NY | 1d |
-| **Constellation Brands** | [AI Innovation Intern](https://go.vansh.nyc/1iF) | Rochester, NY, Chicago, IL | 1d |
-| **Omya** | [Data Scientist Co-op](https://go.vansh.nyc/1iz) | Cincinnati, OH | 1d |
-| **JM Family Enterprises** | [Analytics Intern](https://go.vansh.nyc/1iw) | Deerfield Beach, FL | 1d |
-| **Baringa** | [Solutions AI Lab Intern](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) | London, UK | 2d |
+| **Constellation Brands** | [AI Innovation Intern](https://go.vansh.nyc/1iF) | Rochester, NY, Chicago, IL | 2d |
 
 _+1105 more not shown_
 
@@ -323,7 +323,7 @@ _+1105 more not shown_
 | **CIBC** | [Analyst Co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | Montreal, QC, Canada | 9d |
 | **Keyrock** | [DeFi Quant Trader Intern - Credit](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | London, UK, Brussels, Belgium | 9d |
 | **NatWest Group** | [Quantitative Analytics Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741) | London, UK | 9d |
-| **Infleqtion** | [Quantum Software Intern](https://go.vansh.nyc/Xz) | Chicago, IL | 9d |
+| **Infleqtion** | [Quantum Software Intern](https://go.vansh.nyc/Xz) | Chicago, IL | 10d |
 | **Schonfeld** | [DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | NYC | 10d |
 | **Cenovus Energy** | [Student Risk Analytics Intern](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) | Calgary, AB, Canada | 10d |
 | **Keyrock** | [Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Tra…](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true) | London, UK, Brussels, Belgium | 10d |
@@ -340,11 +340,11 @@ _+1105 more not shown_
 | **Amazon** | [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | Seattle, WA, Arlington County, Arlington, VA… | 15d |
 | **AMA** | [Architecture Research Intern - Predictive Modelling & Simulations](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Edmonton, AB, Canada | 15d |
 | **Schonfeld** | [PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | NYC | 15d |
-| **Constellation Energy** | [Structuring & Portfolio Management Intern](https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us) | San Diego, CA | 15d |
+| **Constellation Energy** | [Structuring & Portfolio Management Intern](https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us) | San Diego, CA | 16d |
 | **InfiniteQuant** | [Quantitative Researcher Intern](https://go.vansh.nyc/eP) | New York, NY | 16d |
 | **CIBC** | [AI and Quantum Scientist Co-op](https://go.vansh.nyc/dG) | Toronto, ON | 17d |
 | **Point72** | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | 18d |
-| **Graviton** | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | London, UK, Amsterdam, Netherlands +2 | 18d |
+| **Graviton** | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | London, UK, Amsterdam, Netherlands +2 | 19d |
 | **Jain Global** | [Quantitative Research Intern - Equity Arbitrage](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1) | NYC | 19d |
 | **Invesco** | [Quantitative Research Intern](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | NYC | 22d |
 | **Invesco** | [Quantitative Intern - Portfolio Engineering and Analytics](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1) | Boston, MA | 22d |
@@ -386,7 +386,7 @@ _+1105 more not shown_
 | **Constellation Brands** | [Marketing Technology & Digital Product Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658) | Rochester, NY, Chicago, IL | 3d |
 | **Kabam** | [Operations Product Manager Co-op](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | Vancouver, BC, Canada | 3d |
 | **USAFacts** | [AI Product Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | Bellevue, WA | 3d |
-| **Paccar** | [Product Planning Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Denton, TX | 3d |
+| **Paccar** | [Product Planning Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Denton, TX | 4d |
 | **Costco** | [Costco Data Systems Intern - IT Product Owner](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) | Issaquah, WA | 4d |
 | **LexisNexis Risk Solutions** | [Product Management Intern - Insurance](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Alpharetta, GA | 4d |
 | **LexisNexis Risk Solutions** | [Product Manager Intern - Government](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Alpharetta, GA | 4d |
@@ -401,16 +401,16 @@ _+1105 more not shown_
 | **TikTok** | [Product Manager Project Intern, Global Monetization Product and Technology](https://go.vansh.nyc/11x) | San Jose, CA | 7d |
 | **TikTok** | [Product Manager Intern, Global Monetization Product and Technology](https://go.vansh.nyc/11y) | Seattle, WA | 7d |
 | **The New York Times** | [Product Manager Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | NYC | 7d |
-| **Astera Labs** | [AI Product Management Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005) | San Jose, CA | 7d |
+| **Astera Labs** | [AI Product Management Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005) | San Jose, CA | 8d |
 | **HP Inc.** | [Product Management Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) | Spring, TX | 8d |
 | **Signify** | [Product Manager Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) | Aurora, CO | 8d |
 | **Teamworks** | [Product Management MBA Intern](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) | Remote in USA | 8d |
 | **Dell Technologies** | [Product Management MBA Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) | Santa Clara, CA, Round Rock, TX +1 | 8d |
-| **Cloudflare** | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8328914) | London, UK | 8d |
-| **Cloudflare** | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8274790) | Austin, TX | 8d |
+| **Cloudflare** | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8328914) | London, UK | 9d |
+| **Cloudflare** | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8274790) | Austin, TX | 9d |
 | **Signify** | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) | Peachtree City, GA | 9d |
 | **Sonos** | [Software Product Manager Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) | Seattle, WA | 9d |
-| **SharkNinja** | [Product Strategy & Development Co-op](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Needham, MA | 9d |
+| **SharkNinja** | [Product Strategy & Development Co-op](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Needham, MA | 10d |
 | **T-Mobile** | [Associate Technical Product Manager Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Frisco, TX | 10d |
 | **Tapestry** | [E-Commerce Intern - E-Commerce](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) | NYC | 10d |
 | **TikTok** | [Global Product Solutions and Operations Intern - Global Monetization Product an…](https://lifeattiktok.com/search/7701069870360627509) | San Jose, CA | 11d |
@@ -420,14 +420,14 @@ _+1105 more not shown_
 | **Nike** | [Product Line Management Intern - Apparel - Accessories](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Beaverton, OR | 11d |
 | **Paccar** | [Product Planning Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Kirkland, WA | 11d |
 | **Parallel Systems** | [Product Management Intern](https://boards.greenhouse.io/parallel/jobs/5275719007) | LA | 11d |
-| **Hive Financial Systems** | [Product & Program Management Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Atlanta, GA | 11d |
+| **Hive Financial Systems** | [Product & Program Management Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Atlanta, GA | 12d |
 | **ABB** | [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) | New Berlin, WI | 12d |
 | **Zebra Technologies** | [Product Management Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Lincolnshire, IL | 12d |
 | **Microsoft** | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | 14d |
 | **Intercontinental Exchange** | [Product Management Intern](https://ice.jibeapply.com/jobs/14065?icims=1) | Atlanta, GA | 14d |
-| **Panasonic Holdings** | [Product Management Intern](https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us) | Bridgeton, MO | 14d |
-| **1Password** | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote in USA, Remote in Canada | 14d |
-| **1Password** | [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) | Remote, United States +1 | 14d |
+| **Panasonic Holdings** | [Product Management Intern](https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us) | Bridgeton, MO | 15d |
+| **1Password** | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote in USA, Remote in Canada | 15d |
+| **1Password** | [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) | Remote, United States +1 | 15d |
 | **Amazon** | [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA, Arlington County, Arlington, VA | 15d |
 | **Amazon** | [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Seattle, WA | 15d |
 | **DIRECTV** | [Customer Operations Product Management Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333) | Remote in USA | 15d |
@@ -441,7 +441,7 @@ _+1105 more not shown_
 | **TikTok** | [Product-Led-Growth Product Manager Project Intern](https://lifeattiktok.com/search/7655421207605889333) | San Jose, CA | 16d |
 | **OpenArt AI** | [Early Adopter & Product Builder Intern - Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | San Carlos, CA | 16d |
 | **CVS Health** | [Innovation & Technology Internship - Product & Agile Delivery](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Dallas, TX, Scottsdale, AZ +2 | 16d |
-| **OneEthos** | [Product Management Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Remote in USA | 16d |
+| **OneEthos** | [Product Management Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Remote in USA | 17d |
 | **Aptiv** | [AI Product Analyst Intern](https://go.vansh.nyc/dC) | San Diego, CA | 17d |
 | **GoFundMe** | [MBA Product Management Intern](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | SF | 17d |
 | **Allstate** | [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Illinois | 17d |
@@ -450,7 +450,7 @@ _+1105 more not shown_
 | **Aptiv** | [Product Analyst Intern - AI & Incubation](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | San Diego, CA | 18d |
 | **Zebra Technologies** | [Supplies & Sensors Product Manager Intern - US](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Lincolnshire, IL | 18d |
 | **Amplify** | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Remote in USA | 18d |
-| **FanDuel** | [Product Co-op](https://boards.greenhouse.io/embed/job_app?token=8285180) | Toronto, ON, Canada | 18d |
+| **FanDuel** | [Product Co-op](https://boards.greenhouse.io/embed/job_app?token=8285180) | Toronto, ON, Canada | 19d |
 | **NVIDIA** | [Product Manager MBA Intern - Enterprise AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Santa Clara, CA | 19d |
 | **Zurn Elkay Water Solutions** | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Downers Grove, IL | 19d |
 | **TikTok** | [Video Moderation & Platform Responsibility Product Manager Project Intern - Pla…](https://lifeattiktok.com/search/7697105572165519621) | San Jose, CA | 21d |
@@ -464,7 +464,7 @@ _+1105 more not shown_
 | **Propio** | [Product Manager Intern](https://go.vansh.nyc/gi) | Overland Park, KS | 23d |
 | **Q2** | [Product Operations Intern - Product Operations](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) | Austin, TX | 23d |
 | **ROCKWOOL Group** | [Associate Product Management Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) | Chicago, IL | 23d |
-| **BNY** | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester, UK | 23d |
+| **BNY** | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester, UK | 24d |
 | **General Motors** | [Product Management Intern - Vehicle Autonomy](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Sunnyvale, CA | 24d |
 | **Prologis** | [AI Product Management Intern](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) | Denver, CO | 25d |
 | **Arcesium** | [Product Management Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | NYC | 25d |
@@ -481,10 +481,10 @@ _+9 more not shown_
 | **Qualcomm** | [Digital Design Engineer Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446722005254) | Toronto, ON, Canada | 0d |
 | **Astranis** | [Embedded Software Developer Intern, Network/Payload](https://go.vansh.nyc/1lz) 🇺🇸 | San Francisco, CA | 0d |
 | **Astranis** | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4704571006) | SF | 0d |
-| **Danaher Corporation** | [Firmware Engineer Co-op](https://go.vansh.nyc/1kG) | Indianapolis, IN | 0d |
-| **Varian** | [Embedded Software Developer Co-op](https://go.vansh.nyc/1kz) | Canada | 0d |
-| **Qualcomm** | [PMU Intern](https://qualcomm.eightfold.ai/careers/job/446722000505) | Cambridge, UK | 0d |
-| **Qualcomm** | [RF/Analog Verification Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446722001120) | Markham, ON, Canada | 0d |
+| **Danaher Corporation** | [Firmware Engineer Co-op](https://go.vansh.nyc/1kG) | Indianapolis, IN | 1d |
+| **Varian** | [Embedded Software Developer Co-op](https://go.vansh.nyc/1kz) | Canada | 1d |
+| **Qualcomm** | [PMU Intern](https://qualcomm.eightfold.ai/careers/job/446722000505) | Cambridge, UK | 1d |
+| **Qualcomm** | [RF/Analog Verification Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446722001120) | Markham, ON, Canada | 1d |
 | **Zoox** | [Hardware Engineer Intern - Vehicle Systems](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) | Foster City, CA | 1d |
 | **Analog Devices** | [Design Evaluation Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479) | San Jose, CA, United States | 1d |
 | **ASML** | [Computational Imaging and Metrology Engineer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102) | San Jose, CA | 1d |
@@ -499,8 +499,8 @@ _+9 more not shown_
 | **DwyerOmega** | [Sensors Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) | Westerville, OH | 1d |
 | **Qualcomm** | [Telemetry Firmware, Driver and Tools Developer Intern](https://go.vansh.nyc/1jr) | Markham, Canada | 1d |
 | **Lightmatter** | [Photonics Characterization Intern](https://boards.greenhouse.io/lightmatter/jobs/5473572008) | Boston, MA | 1d |
-| **AMD** | [Masters High-Speed SerDes and Optical Interconnect Engineering Intern](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) | Santa Clara, CA | 1d |
-| **Honeywell** | [Electronics Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159036) | Poole, UK | 1d |
+| **AMD** | [Masters High-Speed SerDes and Optical Interconnect Engineering Intern](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) | Santa Clara, CA | 2d |
+| **Honeywell** | [Electronics Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159036) | Poole, UK | 2d |
 | **4AG Robotics** | [Robotics Software Co-op](https://go.vansh.nyc/1ih) | Salmon Arm, Canada | 2d |
 | **General Dynamics Mission Systems** | [Systems Engineer Intern - FCS Auxiliary and Training Systems](https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false) | Pittsfield, MA | 2d |
 | **General Dynamics Mission Systems** | [FPGA Engineer Intern](https://careers-gdms.icims.com/jobs/75125/job?mobile=true&needsRedirect=false) | Manassas, VA | 2d |
@@ -526,16 +526,15 @@ _+9 more not shown_
 | **Parsons** | [Embedded Developer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299) | Columbia, MD | 2d |
 | **RTX** | [Systems Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216) | Richardson, TX | 2d |
 | **Sierra Nevada Corporation** | [Firmware Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | 2d |
-| **Smith+Nephew** | [Robotics Software Engineering Intern](https://go.vansh.nyc/1gO) | Pittsburgh, PA | 2d |
-| **Keysight Technologies** | [R&D DSP/FPGA Design Automation Intern](https://jobs.keysight.com/jobs/55153?icims=1) | Santa Rosa, CA | 2d |
-| **L3Harris Technologies** | [Systems Engineer Intern](https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors) | Nashville, TN | 2d |
-| **L3Harris Technologies** | [Software Engineer Intern](https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors) | Nashville, TN | 2d |
-| **Bosch Home Comfort** | [Project Management / Test Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) | Plymouth, MI | 2d |
+| **Smith+Nephew** | [Robotics Software Engineering Intern](https://go.vansh.nyc/1gO) | Pittsburgh, PA | 3d |
+| **Keysight Technologies** | [R&D DSP/FPGA Design Automation Intern](https://jobs.keysight.com/jobs/55153?icims=1) | Santa Rosa, CA | 3d |
+| **L3Harris Technologies** | [Systems Engineer Intern](https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors) | Nashville, TN | 3d |
+| **L3Harris Technologies** | [Software Engineer Intern](https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors) | Nashville, TN | 3d |
+| **Bosch Home Comfort** | [Project Management / Test Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) | Plymouth, MI | 3d |
 | **Nokia** | [Optoelectronics Test Mech Development Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694) | Allentown, PA | 3d |
 | **Aerospace Corporation** | [Intern Bachelors Embedded Eng](https://go.vansh.nyc/1hl) | Kanata, Canada | 3d |
 | **Draper** | [Optics-Physics Sensor Engineer Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) | Cambridge, MA | 3d |
 | **Logiqal** | [Quantum Hardware Intern](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d/application?embed=true) | Princeton, NJ | 3d |
-| **Northrop Grumman** | [Software Engineer Co-op Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) | McClellan Park, CA | 3d |
 | **NVIDIA** | [VLSI Timing Methodology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) | Canada, Santa Clara, CA +1 | 3d |
 | **Philips** | [Product Investigations Lab Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) | New Kensington, PA | 3d |
 | **RTX** | [Control/Diagnostic Software Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) | Jupiter, FL | 3d |
@@ -547,7 +546,7 @@ _+9 more not shown_
 | **Xanadu** | [Photonics Test Engineer Intern](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Toronto, ON, Canada | 3d |
 | **Hewlett Packard Enterprise** | [Hardware Engineering Intern](https://go.vansh.nyc/1ed) | Westford, MA | 3d |
 | **Bose** | [Electrical Engineering Co-op, FPGA and Audio Research Platforms](https://go.vansh.nyc/1dW) | Framingham, MA | 3d |
-| **Honeywell** | [Electronics Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159005) | Leicestershire, UK | 3d |
+| **Honeywell** | [Electronics Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159005) | Leicestershire, UK | 4d |
 | **onsemi** | [Device Characterization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292) | San Jose, CA | 4d |
 | **Micron Technology** | [SSD Firmware Intern, CICD](https://go.vansh.nyc/1d7) | Longmont, CO | 4d |
 | **Rockwell Automation** | [Embedded Software Engineer Co-op](https://go.vansh.nyc/1di) | Milwaukee, WI, Mayfield Heights, OH | 4d |
@@ -577,8 +576,9 @@ _+9 more not shown_
 | **Texas Instruments** | [Layout Design Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019249) | Dallas, TX | 4d |
 | **Shield** | [Embedded Firmware Intern](https://go.vansh.nyc/1bJ) | Dallas, TX | 4d |
 | **Honeywell** | [Embedded Software Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158937) | Horsham, UK | 4d |
+| **Tesla** | [SoC Firmware Engineer Intern, SI Hardware Infrastructure](https://go.vansh.nyc/1a8) | Austin, TX | 4d |
 
-_+359 more not shown_
+_+353 more not shown_
 
 <a id="intern-other"></a>
 
@@ -586,13 +586,16 @@ _+359 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
+| **Blackhawk Network** | [Technology Intern](https://go.vansh.nyc/1m7) | Coppell, TX | 0d |
+| **Blackhawk Network** | [Technology Intern](https://go.vansh.nyc/1m8) | Pleasanton, CA | 0d |
+| **Dayton Freight** | [Business Intelligence Intern](https://go.vansh.nyc/1ma) | Dayton, OH | 0d |
 | **PETRONAS Canada** | [Student Intern, Infrastructure Automation and Innovation](https://go.vansh.nyc/1lK) | Calgary, Canada | 0d |
 | **Varda Space Industries** | [Site Reliability Intern](https://go.vansh.nyc/1lP) | El Segundo, CA | 0d |
 | **CrowdStrike** | [Professional Services Pathfinder Intern, Red Team](https://go.vansh.nyc/1lc) | Arlington, VA | 0d |
 | **RTX** | [Digital Technology Intern](https://go.vansh.nyc/1l2) 🇺🇸 | Andover, MA | 0d |
-| **National Interstate Insurance** | [Claims Technical Intern](https://go.vansh.nyc/1kH) | Cincinnati, OH | 0d |
-| **Envista Forensics** | [Digital Forensics Intern](https://go.vansh.nyc/1kg) | Morrisville, NC | 0d |
-| **Intercontinental Exchange, Inc.** | [Infrastructure Observability Intern](https://go.vansh.nyc/1k5) | Jacksonville, FL | 0d |
+| **National Interstate Insurance** | [Claims Technical Intern](https://go.vansh.nyc/1kH) | Cincinnati, OH | 1d |
+| **Envista Forensics** | [Digital Forensics Intern](https://go.vansh.nyc/1kg) | Morrisville, NC | 1d |
+| **Intercontinental Exchange, Inc.** | [Infrastructure Observability Intern](https://go.vansh.nyc/1k5) | Jacksonville, FL | 1d |
 | **Intercontinental Exchange** | [Infrastructure Development & Automation Intern](https://go.vansh.nyc/1lE) | Atlanta, GA | 1d |
 | **AEM** | [QA Tester Intern, Datalogger Products](https://go.vansh.nyc/1kO) | Victoria, Canada | 1d |
 | **CrowdStrike** | [Intelligence Intern](https://go.vansh.nyc/1ja) | Arlington, VA | 1d |
@@ -604,19 +607,19 @@ _+359 more not shown_
 | **CareSource** | [Configuration and Automation Intern](https://go.vansh.nyc/1js) | Remote, United States | 2d |
 | **Little Caesars Enterprises** | [Cyber IT Intern](https://go.vansh.nyc/1iv) | Detroit, MI | 2d |
 | **Little Caesars Enterprises** | [QA IT Intern](https://go.vansh.nyc/1jC) | Detroit, MI | 2d |
-| **Carnegie Mellon SEI** | [Enabling Edge Intelligence (E2I) Intern](https://go.vansh.nyc/1gK) | Pittsburgh, PA | 2d |
+| **Carnegie Mellon SEI** | [Enabling Edge Intelligence (E2I) Intern](https://go.vansh.nyc/1gK) | Pittsburgh, PA | 3d |
 | **National Interstate Insurance** | [Business Intelligence Intern, Power BI](https://go.vansh.nyc/1go) | Cincinnati, OH | 3d |
 | **University Corporation for Atmospheric…** | [SIParCS Undergraduate Student Intern](https://go.vansh.nyc/1hm) | Boulder, CO | 3d |
 | **Ryder System** | [IT Intern](https://go.vansh.nyc/1hh) | Coral Gables, FL | 3d |
 | **Simon Property Group** | [Project Delivery Intern](https://go.vansh.nyc/1fr) | Indianapolis, IN | 3d |
 | **DuCharme, McMillen & Associates** | [IT Quality Assurance Intern](https://go.vansh.nyc/1f2) | Lisle, IL | 3d |
-| **The Mosaic Company** | [Artificial Intelligence Co-op](https://go.vansh.nyc/1dB) | Tampa, FL | 3d |
+| **The Mosaic Company** | [Artificial Intelligence Co-op](https://go.vansh.nyc/1dB) | Tampa, FL | 4d |
 | **Keysight Technologies** | [DevSecOps Intern](https://go.vansh.nyc/1dt) | Colorado Springs, CO | 4d |
 | **Guardian Life** | [Application Development Intern, Digital & Technology](https://go.vansh.nyc/1cX) | New York, NY, Bethlehem, PA +1 | 4d |
 | **NJM Insurance Group** | [IT QA Automation Intern](https://go.vansh.nyc/1d9) | Trenton, NJ | 4d |
 | **NVIDIA** | [Math Libraries Intern, cuEST](https://go.vansh.nyc/1bE) | Santa Clara, CA | 4d |
 | **Costco** | [Innovation Intern](https://go.vansh.nyc/1bD) | Issaquah, WA | 4d |
-| **Lila Sciences** | [Agentic and Generative Protein Design Co-op](https://go.vansh.nyc/19d) | Cambridge, MA, San Francisco, CA | 4d |
+| **Lila Sciences** | [Agentic and Generative Protein Design Co-op](https://go.vansh.nyc/19d) | Cambridge, MA, San Francisco, CA | 5d |
 | **Rockland Trust** | [Business Intelligence (BI) Intern](https://go.vansh.nyc/1dX) | Rockland, MA | 5d |
 | **GE Aerospace** | [Artificial Intelligence Intern](https://go.vansh.nyc/19l) | Remote, United States | 5d |
 | **AeroVect** | [Autonomy Intern](https://go.vansh.nyc/18I) | San Francisco, CA | 6d |
@@ -636,8 +639,8 @@ _+359 more not shown_
 | **Wabtec** | [LEAD Information Technology Intern](https://go.vansh.nyc/13u) | Pittsburgh, PA | 7d |
 | **Qualcomm** | [Camera Systems Intern](https://go.vansh.nyc/11v) | Vancouver, Canada | 7d |
 | **Carnegie Mellon University** | [Enabling Mission Capability at Scale Intern](https://go.vansh.nyc/110) | Pittsburgh, PA | 7d |
-| **Carnegie Mellon University** | [Cyber Range Development Intern](https://go.vansh.nyc/10C) | Pittsburgh, PA | 7d |
-| **Carnegie Mellon University** | [Agentic Development Intern](https://go.vansh.nyc/10D) | Pittsburgh, PA | 7d |
+| **Carnegie Mellon University** | [Cyber Range Development Intern](https://go.vansh.nyc/10C) | Pittsburgh, PA | 8d |
+| **Carnegie Mellon University** | [Agentic Development Intern](https://go.vansh.nyc/10D) | Pittsburgh, PA | 8d |
 | **MITRE** | [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) | McLean, VA | 8d |
 | **Waterworth** | [Computer Science Co-op](https://go.vansh.nyc/10a) | Victoria, Canada | 8d |
 | **Zoox** | [Autonomy and Geofence Expansion Intern](https://go.vansh.nyc/ZX) | Foster City, CA | 9d |
@@ -648,12 +651,12 @@ _+359 more not shown_
 | **PTC** | [Onshape QA Intern](https://go.vansh.nyc/Vf) | Boston, MA | 11d |
 | **PTC** | [Onshape SysOps Intern](https://go.vansh.nyc/Vg) | Boston, MA | 11d |
 | **42dot** | [Foundation Models Intern](https://go.vansh.nyc/WM) | San Francisco, CA, Sunnyvale, CA | 11d |
-| **Crowe** | [Incident Response Intern](https://go.vansh.nyc/SE) | Sarasota, FL | 11d |
-| **Rakuten International** | [eReader Quality Assurance Intern](https://go.vansh.nyc/SF) | Toronto, Canada | 11d |
-| **SOTI** | [Quality Assurance Specialist Intern, SOTI Connect](https://go.vansh.nyc/SH) | Mississauga, Canada | 11d |
+| **Crowe** | [Incident Response Intern](https://go.vansh.nyc/SE) | Sarasota, FL | 12d |
+| **Rakuten International** | [eReader Quality Assurance Intern](https://go.vansh.nyc/SF) | Toronto, Canada | 12d |
+| **SOTI** | [Quality Assurance Specialist Intern, SOTI Connect](https://go.vansh.nyc/SH) | Mississauga, Canada | 12d |
 | **Peraton** | [Solution Architect Co-op](https://go.vansh.nyc/T6) | San Diego, CA | 12d |
 | **Skydio** | [Flight Test Intern](https://go.vansh.nyc/Bz) | San Mateo, CA | 13d |
-| **Americo Financial Life and Annuity** | [Artificial Intelligence Intern](https://go.vansh.nyc/Qh) | Kansas City, MO | 14d |
+| **Americo Financial Life and Annuity** | [Artificial Intelligence Intern](https://go.vansh.nyc/Qh) | Kansas City, MO | 15d |
 | **Aerospace Corporation** | [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5) 🇺🇸 | El Segundo, CA | 15d |
 | **MITRE** | [Autonomous Systems Intern](https://go.vansh.nyc/gU) | McLean, VA | 15d |
 | **Altera** | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto, Canada | 15d |
@@ -669,10 +672,10 @@ _+359 more not shown_
 | **Western & Southern Financial Group** | [Enterprise Architecture Information Technology Intern](https://go.vansh.nyc/eX) | Cincinnati, OH | 16d |
 | **Qualcomm** | [Camera Design Implementation Intern](https://go.vansh.nyc/ek) | Markham, ON, Canada | 16d |
 | **Leidos** | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote in USA | 16d |
-| **Aerospace Corporation** | [Digital Communication Intern](https://go.vansh.nyc/dx) 🇺🇸 | El Segundo, CA | 16d |
-| **Zipline** | [System Test Automation Intern](https://go.vansh.nyc/Su) | South San Francisco, CA | 18d |
-| **LLNL** | [Predictive Science Academic Alliance Program IV Student Intern](https://go.vansh.nyc/bw) | Livermore, CA | 18d |
-| **Los Alamos National Laboratory** | [High Performance Computing Undergraduate Intern](https://go.vansh.nyc/Ri) 🇺🇸 | United States | 19d |
+| **Aerospace Corporation** | [Digital Communication Intern](https://go.vansh.nyc/dx) 🇺🇸 | El Segundo, CA | 17d |
+| **Zipline** | [System Test Automation Intern](https://go.vansh.nyc/Su) | South San Francisco, CA | 19d |
+| **LLNL** | [Predictive Science Academic Alliance Program IV Student Intern](https://go.vansh.nyc/bw) | Livermore, CA | 19d |
+| **Los Alamos National Laboratory** | [High Performance Computing Undergraduate Intern](https://go.vansh.nyc/Ri) 🇺🇸 | United States | 20d |
 | **Waabi** | [Safety Methodologies Co-op](https://go.vansh.nyc/b5) | Toronto, ON, Canada, SF +1 | 21d |
 | **LLNL** | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summ…](https://go.vansh.nyc/am) | Livermore, CA | 22d |
 | **Rocket Companies** | [Marketing, Accounting, or IT Intern](https://go.vansh.nyc/aq) | Detroit, MI | 22d |
@@ -683,11 +686,8 @@ _+359 more not shown_
 | **Hitachi** | [ITV Automation Specialist Intern](https://go.vansh.nyc/9v) | Toronto, ON | 24d |
 | **Susquehanna International Group** | [Technology Co-op](https://go.vansh.nyc/9A) | Remote (US) | 24d |
 | **Electronic Arts** | [Technical Artist Co-op](https://go.vansh.nyc/Cb) | Vancouver, Canada | 24d |
-| **Marsh** | [Intern](https://go.vansh.nyc/8H) | Dallas, TX | 25d |
-| **Mary Free Bed Rehabilitation Hospital** | [IT Intern](https://go.vansh.nyc/8I) | Grand Rapids, MI | 25d |
-| **Bosch** | [ERP/IT Intern](https://go.vansh.nyc/87) | Lincolnshire, IL | 26d |
 
-_+4 more not shown_
+_+7 more not shown_
 
 ---
 
@@ -699,6 +699,8 @@ _+4 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
+| **ElevenLabs** | [Full-Stack Engineer](https://go.vansh.nyc/1ml) | New York, NY, Boston, MA | 0d |
+| **ElevenLabs** | [Full-Stack Engineer (Backend Leaning)](https://go.vansh.nyc/1mm) | New York, NY, Boston, MA | 0d |
 | **AbbVie** | [Associate Software Engineer 1](https://jobs.smartrecruiters.com/AbbVie/3743990016715126) | North Chicago, IL | 0d |
 | **AbbVie** | [Associate Engineer - Technology 1](https://jobs.smartrecruiters.com/AbbVie/3743990016714871) | North Chicago, IL | 0d |
 | **Amazon** | [Systems Development Engineer - AWS Commerce Platform-ADC](https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc) | Denver, CO | 0d |
@@ -711,9 +713,10 @@ _+4 more not shown_
 | **Qualcomm** | [AI and DSP Applications Software Engineer - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446722003218) | Markham, ON, Canada | 0d |
 | **Keyfactor** | [Associate Software Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) | Remote in USA | 0d |
 | **Fortinet** | [Software Engineer – Cloud Platform (FortiSIEM)](https://go.vansh.nyc/1l1) | Santa Clara, CA | 0d |
-| **Nightwing** | [Software Developer I, System Security](https://go.vansh.nyc/1kI) 🇺🇸 | Huntsville, AL | 0d |
-| **AMD** | [Senior Software Engineer](https://careers.amd.com/jobs/94257?icims=1&lang=en-us) | San Jose, CA | 0d |
-| **Huntington Ingalls Industries** | [Software Engineer 1](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors) | Newport News, VA | 0d |
+| **Secfix** | [Backend Engineer, GTM Engineering](https://go.vansh.nyc/1mk) | Remote | 0d |
+| **Nightwing** | [Software Developer I, System Security](https://go.vansh.nyc/1kI) 🇺🇸 | Huntsville, AL | 1d |
+| **AMD** | [Senior Software Engineer](https://careers.amd.com/jobs/94257?icims=1&lang=en-us) | San Jose, CA | 1d |
+| **Huntington Ingalls Industries** | [Software Engineer 1](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors) | Newport News, VA | 1d |
 | **TikTok** | [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) | San Jose, CA | 1d |
 | **Amazon** | [Software Development Engineer - SoC Hardware Abstraction Layer](https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal) | Cupertino, CA | 1d |
 | **Persimmons.ai** | [New Grad: Design Verification Engineer](https://go.vansh.nyc/1jQ) | San Jose, CA | 1d |
@@ -741,12 +744,12 @@ _+4 more not shown_
 | **Amazon** | [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) | Redmond, WA | 1d |
 | **L3Harris Technologies** | [Associate, Software Engineer](https://go.vansh.nyc/1kJ) | Troutman, FL | 1d |
 | **Booz Allen Hamilton** | [New Grad 2027: Software Developer](https://go.vansh.nyc/1iX) 🇺🇸 | McLean, VA | 1d |
-| **StubHub** | [New Grad: Software Engineer I, Consumer Experience](https://go.vansh.nyc/1iQ) | New York, NY | 1d |
-| **StubHub** | [Software Engineer New Grad - Consumer Experience](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) | NYC | 1d |
-| **Amazon** | [New Grad 2027: Software Development Engineer, Amazon Leo](https://go.vansh.nyc/1iP) 🇺🇸 | Redmond, WA | 1d |
-| **Medtronic** | [Software Test Engineer I](https://go.vansh.nyc/1kL) | Remote | 1d |
-| **PA Consulting** | [Software Development Apprentice - Digital](https://jobs.smartrecruiters.com/PAConsulting/744000159900154) | London, UK | 1d |
-| **CACI** | [Junior Software Developer](https://go.vansh.nyc/1iG) | Remote | 1d |
+| **StubHub** | [New Grad: Software Engineer I, Consumer Experience](https://go.vansh.nyc/1iQ) | New York, NY | 2d |
+| **StubHub** | [Software Engineer New Grad - Consumer Experience](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) | NYC | 2d |
+| **Amazon** | [New Grad 2027: Software Development Engineer, Amazon Leo](https://go.vansh.nyc/1iP) 🇺🇸 | Redmond, WA | 2d |
+| **Medtronic** | [Software Test Engineer I](https://go.vansh.nyc/1kL) | Remote | 2d |
+| **PA Consulting** | [Software Development Apprentice - Digital](https://jobs.smartrecruiters.com/PAConsulting/744000159900154) | London, UK | 2d |
+| **CACI** | [Junior Software Developer](https://go.vansh.nyc/1iG) | Remote | 2d |
 | **FlexAI** | [New Grad: Software Engineer](https://go.vansh.nyc/1iq) | San Jose, CA | 2d |
 | **Susquehanna International Group** | [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) | Chicago, IL | 2d |
 | **Peraton** | [Cloud Software Engineer 1](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) | Fort Meade, MD | 2d |
@@ -774,14 +777,14 @@ _+4 more not shown_
 | **Pacific Northwest National Laboratory** | [Early Career Software Engineer](https://careers.pnnl.gov/jobs/12900?icims=1) | Richland, WA | 2d |
 | **Lyft** | [Software Engineer, Backend](https://go.vansh.nyc/1h1) | Toronto, Canada | 2d |
 | **Abbott** | [Software Test Engineer](https://go.vansh.nyc/1iZ) | Pleasanton, CA | 2d |
-| **Empower Pharmacy** | [Associate Software Engineer - Full Stack](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) | Houston, TX | 2d |
-| **Myriad360** | [Junior AI and Automation Engineer](https://boards.greenhouse.io/myriad360/jobs/8930382002) | Remote in USA | 2d |
-| **M&T Bank** | [New Grad 2027: Technology Development Program - Cybersecurity (Encryption Servi…](https://go.vansh.nyc/1j5) | Buffalo, NY | 2d |
-| **M&T Bank** | [New Grad 2027: Technology Development Program, Cybersecurity (Insider Threat)](https://go.vansh.nyc/1j6) | Buffalo, NY | 2d |
-| **Keysight Technologies** | [R&D Software Engineer - Sampling Oscilloscope Applications - DevOps](https://jobs.keysight.com/jobs/55298?icims=1) | Santa Rosa, CA | 2d |
-| **M&T Bank** | [New Grad 2027: Technology Development Program, Cybersecurity (Vulnerability Ris…](https://go.vansh.nyc/1j8) | Buffalo, NY | 2d |
-| **M&T Bank** | [New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identi…](https://go.vansh.nyc/1j9) | Buffalo, NY | 2d |
-| **L3Harris Technologies** | [Associate, Software Engineer](https://go.vansh.nyc/1gD) | Palm Bay, FL | 2d |
+| **Empower Pharmacy** | [Associate Software Engineer - Full Stack](https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009) | Houston, TX | 3d |
+| **Myriad360** | [Junior AI and Automation Engineer](https://boards.greenhouse.io/myriad360/jobs/8930382002) | Remote in USA | 3d |
+| **M&T Bank** | [New Grad 2027: Technology Development Program - Cybersecurity (Encryption Servi…](https://go.vansh.nyc/1j5) | Buffalo, NY | 3d |
+| **M&T Bank** | [New Grad 2027: Technology Development Program, Cybersecurity (Insider Threat)](https://go.vansh.nyc/1j6) | Buffalo, NY | 3d |
+| **Keysight Technologies** | [R&D Software Engineer - Sampling Oscilloscope Applications - DevOps](https://jobs.keysight.com/jobs/55298?icims=1) | Santa Rosa, CA | 3d |
+| **M&T Bank** | [New Grad 2027: Technology Development Program, Cybersecurity (Vulnerability Ris…](https://go.vansh.nyc/1j8) | Buffalo, NY | 3d |
+| **M&T Bank** | [New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identi…](https://go.vansh.nyc/1j9) | Buffalo, NY | 3d |
+| **L3Harris Technologies** | [Associate, Software Engineer](https://go.vansh.nyc/1gD) | Palm Bay, FL | 3d |
 | **Human Interest** | [Software Engineer I](https://go.vansh.nyc/1gi) | San Francisco, CA | 3d |
 | **ShadowDragon** | [Junior AI/Machine Learning Engineer](https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c) | Remote in USA, Hoover, AL | 3d |
 | **Shield** | [New Grad: Engineer II, Simulation Framework (Master's)](https://go.vansh.nyc/1gc) 🇺🇸 | San Diego, CA | 3d |
@@ -796,11 +799,8 @@ _+4 more not shown_
 | **Guidewire** | [Software Engineer](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1) | Exton, PA | 3d |
 | **Infoblox** | [Associate Software Engineer](https://go.vansh.nyc/1gv) | Burnaby, Canada | 3d |
 | **Intel** | [Compiler Engineer for AI Tile-based DSL](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443) | Toronto, ON, Canada | 3d |
-| **M&T Bank** | [New Grad 2027: Technology Development Program - Operating Systems Engineer](https://go.vansh.nyc/1hd) | Buffalo, NY | 3d |
-| **Microchip Technology** | [Engineer 1 - Software](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26) | San Jose, CA | 3d |
-| **Nooks** | [Software Engineer](https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true) | Seattle, WA, SF | 3d |
 
-_+454 more not shown_
+_+457 more not shown_
 
 <a id="newgrad-frontend"></a>
 
@@ -809,8 +809,8 @@ _+454 more not shown_
 | Company | Role | Location | Age |
 |---|---|---|---|
 | **Connecticut State Community College** | [Web Developer](https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer) | Hartford, CT | 1d |
-| **EquipmentShare** | [Junior Ecommerce Web Developer](https://www.equipmentshare.com/careers/openings/?gh_jid=8319404) | Columbia, MO | 1d |
-| **Hardin Design** | [Entry Level Web Developer](https://jobs.smartrecruiters.com/HardinDesign/744000159682070) | Madison, WI | 2d |
+| **EquipmentShare** | [Junior Ecommerce Web Developer](https://www.equipmentshare.com/careers/openings/?gh_jid=8319404) | Columbia, MO | 2d |
+| **Hardin Design** | [Entry Level Web Developer](https://jobs.smartrecruiters.com/HardinDesign/744000159682070) | Madison, WI | 3d |
 | **Boeing** | [ASIC / FPGA Digital Design Engineer (Master's)](https://go.vansh.nyc/19R) 🇺🇸 | El Segundo, CA | 4d |
 | **TikTok** | [New Grad 2027: Frontend Software Engineer (Global CRM)](https://go.vansh.nyc/15O) | San Jose, CA | 6d |
 | **TikTok** | [New Grad 2027: Frontend Software Engineer (Ads Interface)](https://go.vansh.nyc/16n) | San Jose, CA | 6d |
@@ -829,10 +829,10 @@ _+454 more not shown_
 | **Priceline** | [Junior Software Engineer - Front End](https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885) | NYC | 10d |
 | **RainFocus** | [Junior UI Developer](https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply) | Remote in USA | 10d |
 | **Intel** | [SoC Logic Design Engineer (Master's)](https://go.vansh.nyc/Tl) | Santa Clara, CA | 12d |
-| **84 Lumber** | [Associate Web Developer](https://careers.84lumber.com/jobs/26201?icims=1) | Eighty Four, PA | 18d |
+| **84 Lumber** | [Associate Web Developer](https://careers.84lumber.com/jobs/26201?icims=1) | Eighty Four, PA | 19d |
 | **ERMCO Distribution Transformers** | [Software Design Engineer 2](https://careers-ermcoeci.icims.com/jobs/6987/job?mobile=true&needsRedirect=false) | Dyersburg, TN | 19d |
 | **Astera Labs** | [Digital Design Engineer](https://go.vansh.nyc/Do) | San Jose, CA | 24d |
-| **Apple** | [ASIC Design Engineer, Fabric/Interconnect](https://go.vansh.nyc/UI) | Austin, TX, Santa Clara, CA | 25d |
+| **Apple** | [ASIC Design Engineer, Fabric/Interconnect](https://go.vansh.nyc/UI) | Austin, TX, Santa Clara, CA | 26d |
 | **Capgemini** | [Lead Java Full Stack with React](https://careers.capgemini.com/job/New-York,-NY-Lead-Java-Full-Stack-with-React-NY-10001/1445764233/?ats=successfactors) | NYC | 29d |
 | **VivSoft Technologies** | [Front-End Developer](https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer) | Remote in USA | 29d |
 
@@ -849,9 +849,11 @@ _+454 more not shown_
 | **Dominion Energy** | [Associate Business Performance Analyst - Contact Intelligence](https://careers.dominionenergy.com/job/RICHMOND-Associate-Business-Performance-Analyst-Contact-Intelligence-VA-23231/1448533300/?ats=successfactors) | Richmond, VA | 0d |
 | **L3Harris Technologies** | [Associate Structural Engineer](https://jobs.l3harris.com/job/Huntsville-Associate,-Structural-Engineer-AL-35806/1448644200/?ats=successfactors) | Huntsville, AL | 0d |
 | **CVHCare** | [Marketing Analyst](https://cvhcare.applytojob.com/apply/dfv1EWNifG/Marketing-Analyst) | SF | 0d |
+| **Apple** | [AI Operations, Applied AI Research and Design Developer](https://go.vansh.nyc/1mi) | Cupertino, CA | 0d |
 | **Pendar Technologies** | [Scientific Software Engineer - Algorithms](https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008) | Cambridge, MA | 0d |
 | **The Brattle Group** | [Data and AI Engineer](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | SF | 0d |
-| **neurohire.ai** | [Data Scientist](https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply) | Remote in USA | 0d |
+| **Wavestone1** | [AI Full Stack Engineer](https://go.vansh.nyc/1mj) | Pittsburgh, PA | 0d |
+| **neurohire.ai** | [Data Scientist](https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply) | Remote in USA | 1d |
 | **Bank of Montreal** | [Personal & Business Banking New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068) | Toronto, ON, Canada | 1d |
 | **BP** | [New Grad 2027: Digital – Data & AI and Digital Engineering](https://go.vansh.nyc/1lA) | Houston, TX | 1d |
 | **CACI** | [Data Engineering/Analytics Support](https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_334800) | Norco, CA | 1d |
@@ -859,8 +861,8 @@ _+454 more not shown_
 | **Ovative** | [Analyst – Data & Software Engineer](https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342) | Chicago, IL, NYC +1 | 1d |
 | **Persimmons.ai** | [New Grad: Design Verification Engineer, AI-Driven](https://go.vansh.nyc/1jA) | San Jose, CA | 1d |
 | **OHM Advisors** | [GIS Specialist](https://apply.workable.com/ohm-advisors/j/980B69F879/apply) | Knoxville, TN | 1d |
-| **BetterHelp** | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | 1d |
-| **Smiths Detection Group** | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000159869599) | Slough, UK | 1d |
+| **BetterHelp** | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | 2d |
+| **Smiths Detection Group** | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000159869599) | Slough, UK | 2d |
 | **Booz Allen Hamilton** | [New Grad 2027: Cybersecurity Analyst, Junior](https://go.vansh.nyc/1kM) 🇺🇸 | Rome, NY | 2d |
 | **McKesson** | [Cyber Security Analyst (Cyber Academy)](https://go.vansh.nyc/1kK) | Irving, TX | 2d |
 | **Susquehanna International Group** | [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) | Bala Cynwyd, PA | 2d |
@@ -898,8 +900,8 @@ _+454 more not shown_
 | **ByteDance** | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | San Jose, CA | 3d |
 | **Pacific Northwest National Laboratory** | [Post-Masters Research Associate - Large Language Models](https://careers.pnnl.gov/jobs/12956?icims=1) | United States | 3d |
 | **LinkedIn** | [Data Scientist](https://jobs.smartrecruiters.com/LinkedIn3/744000159509679) | Mountain View, CA | 3d |
-| **SambaNova Systems** | [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) | Austin, TX, San Jose, CA | 3d |
-| **Vestwell** | [Data Analyst](https://job-boards.greenhouse.io/vestwell/jobs/8108684003) | King of Prussia, PA, Austin, TX +2 | 3d |
+| **SambaNova Systems** | [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) | Austin, TX, San Jose, CA | 4d |
+| **Vestwell** | [Data Analyst](https://job-boards.greenhouse.io/vestwell/jobs/8108684003) | King of Prussia, PA, Austin, TX +2 | 4d |
 | **Brillio** | [Data Acquisition Analyst](https://jobs.lever.co/brillio-2/0663c1d8-d32a-4f52-a0ce-71fb6b5f0966/apply) | Frisco, TX | 4d |
 | **Duke Energy** | [Associate Geographic Information Systems Technologist - GIS - Geographic Inform…](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-Geographic-Information-Systems--GIS--Technologist-or-Geographic-Information-Systems--GIS--Technologist_R42293) | Charlotte, NC | 4d |
 | **Equifax** | [Data Scientist - Alternative Finance](https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Alternative-Finance_J00180061) | Alpharetta, GA, Atlanta, GA | 4d |
@@ -916,15 +918,15 @@ _+454 more not shown_
 | **The Home Depot** | [Data Analyst - Supply Chain](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req197256) | Atlanta, GA | 4d |
 | **Stuller** | [Data Engineer](https://secure4.saashr.com/ta/6052029.careers?ShowJob=1057248002&lang=en-US) | Lafayette, LA | 4d |
 | **Equifax** | [New Grad 2027: Data Analytics Rotational Development Associate](https://go.vansh.nyc/19F) | Alpharetta, GA | 4d |
-| **Rothera** | [Listings Associate](https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4474583009) | Chicago, IL | 4d |
-| **Sperry Rail** | [Data Analyst 1](https://ats.rippling.com/sperry-rail-inc/jobs/7fc77434-4211-480b-82f8-41c6ebc82fd8) | Olathe, KS | 4d |
-| **Integration Innovation (i3)** | [Junior Machine Learning Engineer](https://i3-corps.jibeapply.com/jobs/5417?icims=1) | Arlington County, Arlington, VA | 4d |
-| **Element Solutions** | [Junior Data Engineer](https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply) | Remote in USA | 4d |
+| **Rothera** | [Listings Associate](https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4474583009) | Chicago, IL | 5d |
+| **Sperry Rail** | [Data Analyst 1](https://ats.rippling.com/sperry-rail-inc/jobs/7fc77434-4211-480b-82f8-41c6ebc82fd8) | Olathe, KS | 5d |
+| **Integration Innovation (i3)** | [Junior Machine Learning Engineer](https://i3-corps.jibeapply.com/jobs/5417?icims=1) | Arlington County, Arlington, VA | 5d |
+| **Element Solutions** | [Junior Data Engineer](https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply) | Remote in USA | 5d |
 | **Amazon** | [Software Development Engineer, AWS Data Services](https://go.vansh.nyc/19E) | Seattle, WA | 5d |
 | **Applied Materials** | [Computer Vision/Machine Learning/Deep Learning Algorithm Developer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2632865) | Santa Clara, CA | 5d |
 | **Philips** | [Associate Data & AI Engineer - Medical Imaging](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180) | Bedford, MA | 5d |
 | **Zefr** | [Multilingual Data Annotation Specialist - Spanish](https://jobs.ashbyhq.com/zefr/28ba87e5-924b-498f-b54a-d26c6639aaff/application?embed=true) | Marina Del Rey, CA | 5d |
-| **SAIC** | [Geographic Information Systems Analyst](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675) | California, MD | 5d |
+| **SAIC** | [Geographic Information Systems Analyst](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675) | California, MD | 6d |
 | **TikTok** | [New Grad 2027: Backend Software Engineer, Emerging Products & AI Safety](https://go.vansh.nyc/15M) | San Jose, CA | 6d |
 | **TikTok** | [New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy)](https://go.vansh.nyc/15P) | San Jose, CA | 6d |
 | **TikTok** | [New Grad 2027: Research Scientist (Ads Creative) (Master's)](https://go.vansh.nyc/15Q) | San Jose, CA | 6d |
@@ -940,8 +942,6 @@ _+454 more not shown_
 | **TikTok** | [New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)](https://go.vansh.nyc/169) | San Jose, CA | 6d |
 | **TikTok** | [New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)](https://go.vansh.nyc/16a) | San Jose, CA | 6d |
 | **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b) | San Jose, CA | 6d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e) | San Jose, CA | 6d |
-| **TikTok** | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h) | San Jose, CA | 6d |
 
 _+289 more not shown_
 
@@ -951,7 +951,7 @@ _+289 more not shown_
 
 | Company | Role | Location | Age |
 |---|---|---|---|
-| **Two Sigma** | [Systematic Strategies Oversight Analyst](https://twosigma.avature.net/careers/JobDetail/14405) | NYC | 1d |
+| **Two Sigma** | [Systematic Strategies Oversight Analyst](https://twosigma.avature.net/careers/JobDetail/14405) | NYC | 2d |
 | **Susquehanna International Group** | [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) | Bala Cynwyd, PA | 2d |
 | **Susquehanna International Group** | [Quantitative Sports Researcher (Master's)](https://go.vansh.nyc/1hG) | Bala Cynwyd, PA | 2d |
 | **Morgan Stanley** | [Quantitative Strategist - Associate - Municipal Markets](https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Associate--Municipal-Markets--New-York-_JR046276) | NYC | 3d |
@@ -961,10 +961,10 @@ _+289 more not shown_
 | **Chicago Trading Company** | [New Grad 2027: Quant Trading Associate](https://go.vansh.nyc/11e) | Chicago, IL | 7d |
 | **Queueco** | [Quantitative Developer Graduate](https://apply.workable.com/queueco/j/4E1AB7A939/apply) | London, UK | 8d |
 | **S&P Global** | [Investment Reporting Specialist - Quantitative Analysis](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Guernsey-GG/Specialist--Quantitative-Analysis_332357-1) | London, UK, Guernsey | 9d |
-| **Leversys** | [Quantitative Analyst](https://jobs.lever.co/leversys/72aabed1-8525-4d14-9c61-42ade1c9c5ec/apply) | London, UK | 9d |
+| **Leversys** | [Quantitative Analyst](https://jobs.lever.co/leversys/72aabed1-8525-4d14-9c61-42ade1c9c5ec/apply) | London, UK | 10d |
 | **Prima** | [Quantitative Analyst](https://jobs.eu.lever.co/prima/e3a6b540-1cff-436b-bdc1-1289284d187d/apply) | London, UK | 10d |
 | **JP Morgan Chase** | [Pricingdirect Evaluator - Securitized Products Group - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400) | NYC | 14d |
-| **Graviton** | [Quantitative Researcher](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002) | London, UK, Amsterdam, Netherlands +2 | 18d |
+| **Graviton** | [Quantitative Researcher](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002) | London, UK, Amsterdam, Netherlands +2 | 19d |
 | **Belvedere Trading** | [New Grad 2027: Quantitative Trader](https://go.vansh.nyc/U9) | Chicago, IL | 19d |
 | **Five Rings** | [New Grad 2027: Quantitative Trader](https://go.vansh.nyc/Uf) | New York, NY | 19d |
 | **Headlands Technologies** | [New Grad: Quantitative Researcher](https://go.vansh.nyc/Uv) | Chicago, IL, New York, NY | 19d |
@@ -1010,16 +1010,16 @@ _+289 more not shown_
 | **TikTok** | [Product Manager New Grad - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7680761598014015797) | San Jose, CA | 12d |
 | **Abound** | [Product Associate](https://jobs.ashbyhq.com/Abound/dfe15080-f428-4053-ac93-0a1a769634a1/application?embed=true) | London, UK | 12d |
 | **Carvana** | [Product Manager](https://www.carvana.com/careers/apply?gh_jid=7543098) | Tempe, AZ | 14d |
-| **Addepar** | [Product Manager – Early Career - AI Platform](https://job-boards.greenhouse.io/addepar1/jobs/8910404002) | NYC | 14d |
+| **Addepar** | [Product Manager – Early Career - AI Platform](https://job-boards.greenhouse.io/addepar1/jobs/8910404002) | NYC | 15d |
 | **Hive** | [Associate Product Manager - Deploy Models](https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply) | SF | 15d |
 | **Copart** | [Associate Product Manager](https://copart.wd12.myworkdayjobs.com/copart/job/San-Francisco-CA/Associate-Product-Manager_JR112367) | SF | 16d |
-| **Trading212** | [Graduate Product Manager](https://jobs.ashbyhq.com/trading212/46081f8b-caaa-4576-9d38-260630ba3bcc/application?embed=true) | London, UK | 17d |
+| **Trading212** | [Graduate Product Manager](https://jobs.ashbyhq.com/trading212/46081f8b-caaa-4576-9d38-260630ba3bcc/application?embed=true) | London, UK | 18d |
 | **Clerkie** | [Associate Product Manager](http://getfiber.ai/careers?gh_jid=5269011007) | Remote in USA | 18d |
 | **Kikoff** | [Product Manager - Retention & Monetization](https://job-boards.greenhouse.io/kikoff/jobs/4458616009) | SF | 18d |
 | **Applied Materials** | [Service Product Manager New Grad - Product Line Management](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842) | Austin, TX, Santa Clara, CA | 19d |
 | **Applied Materials** | [Product Management 2 New Grad](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882) | Santa Clara, CA | 23d |
 | **Normal Computing** | [Product Manager](https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application?embed=true) | NYC | 23d |
-| **WPP** | [Product Manager](https://job-boards.greenhouse.io/wpp/jobs/8887554002) | United Kingdom | 23d |
+| **WPP** | [Product Manager](https://job-boards.greenhouse.io/wpp/jobs/8887554002) | United Kingdom | 24d |
 | **Trove Brands** | [Brand Marketing Associate - Core & Campaign](https://job-boards.greenhouse.io/trovebrands/jobs/4450961009) | Lehi, UT | 24d |
 | **CWILL** | [Product Management Trainee](https://apply.workable.com/cwill-us/j/DC0FEF1210/apply) | Cary, NC | 24d |
 | **Zimmer Biomet Holdings** | [Associate Product Manager - Upstream Marketing - NPI Strategy](https://careers.zimmerbiomet.com/us/en/job/13127) | Englewood, CO | 25d |
@@ -1043,8 +1043,8 @@ _+289 more not shown_
 | **Cisco** | [ASIC DFT Engineer I](https://go.vansh.nyc/1lV) | San Jose, CA | 0d |
 | **Lawrence Livermore National Laboratory…** | [Embedded Systems Engineer - Super Intelligence Integration](https://jobs.smartrecruiters.com/LLNL/3743990016713546) | Livermore, CA | 0d |
 | **ViaSat** | [Associate Embedded Software Engineer](https://careers.viasat.com/jobs/7118?icims=1&lang=en-us) | Carlsbad, CA | 0d |
-| **Sopra Steria** | [FPGA Verification Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000160224361) | Platteville, WI | 0d |
-| **Sopra Steria** | [FPGA Verification Engineer – Entry Level](https://jobs.smartrecruiters.com/SopraSteria1/744000160220699) | East Hartford, CT | 0d |
+| **Sopra Steria** | [FPGA Verification Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000160224361) | Platteville, WI | 1d |
+| **Sopra Steria** | [FPGA Verification Engineer – Entry Level](https://jobs.smartrecruiters.com/SopraSteria1/744000160220699) | East Hartford, CT | 1d |
 | **Amazon** | [Software Development Engineer, SoC Hardware Abstraction Layer](https://go.vansh.nyc/1k0) | Cupertino, CA | 1d |
 | **Abbott** | [Electrical Engineer 1 Neuromodulation](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/Electrical-Engineer-I_31166976) | Plano, TX | 1d |
 | **Base Power** | [Failure Analysis Technician](https://jobs.ashbyhq.com/base-power/2fab77c3-d853-41db-8a77-e97761562030/application?embed=true) | Austin, TX | 1d |
@@ -1081,10 +1081,10 @@ _+289 more not shown_
 | **Ultra Intelligence and Communications** | [FPGA/Firmware Engineer New Grad](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-2) | Maidenhead, UK | 2d |
 | **Ultra Intelligence and Communications** | [Graduate Hardware Engineer](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-Hardware-Engineer_REQ-12491-1) | Maidenhead, UK | 2d |
 | **V2X** | [Hardware Engineer 1](https://careers.gov2x.com/jobs/63915?icims=1) | Harvard, MA | 2d |
-| **General Dynamics** | [Junior Systems Engineer - ISTAR](https://jobs.smartrecruiters.com/GDMSI/744000159681119) | Ottawa, ON, Canada | 2d |
-| **Astrion** | [Electronic Component Engineer - EEE Parts](https://careers.astrion.us/jobs/25474?icims=1) | Houston, TX | 2d |
-| **RTX** | [Electrical Engineer 1 - Test Solutions](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-I---Test-Solutions---Onsite_01836498-1) | Andover, MA, Marlborough, MA +1 | 2d |
-| **L3Harris Technologies** | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors) | Palm Bay, FL | 2d |
+| **General Dynamics** | [Junior Systems Engineer - ISTAR](https://jobs.smartrecruiters.com/GDMSI/744000159681119) | Ottawa, ON, Canada | 3d |
+| **Astrion** | [Electronic Component Engineer - EEE Parts](https://careers.astrion.us/jobs/25474?icims=1) | Houston, TX | 3d |
+| **RTX** | [Electrical Engineer 1 - Test Solutions](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-I---Test-Solutions---Onsite_01836498-1) | Andover, MA, Marlborough, MA +1 | 3d |
+| **L3Harris Technologies** | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors) | Palm Bay, FL | 3d |
 | **AeroVironment** | [RF PCB Layout Engineer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/RF-PCB-Layout-Engineer_9319) | Germantown, MD, Albuquerque, NM | 3d |
 | **Draper** | [Software Engineer 1](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108) | Cambridge, MA | 3d |
 | **GE Healthcare** | [Firmware Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4049025-1) | Waukesha, WI | 3d |
@@ -1105,7 +1105,7 @@ _+289 more not shown_
 | **Amazon** | [New Grad 2027: Software Development Engineer (Embedded Systems)](https://go.vansh.nyc/1ec) | Seattle, WA | 3d |
 | **Vantive** | [Embedded Software Engineer](https://go.vansh.nyc/1h0) | Plymouth, MN | 3d |
 | **Keysight Technologies** | [MMIC Design Engineer](https://jobs.keysight.com/jobs/56417?icims=1) | Santa Rosa, CA | 3d |
-| **Keysight Technologies** | [Digital Physical Design Engineer](https://jobs.keysight.com/jobs/55359?icims=1) | Colorado Springs, CO | 3d |
+| **Keysight Technologies** | [Digital Physical Design Engineer](https://jobs.keysight.com/jobs/55359?icims=1) | Colorado Springs, CO | 4d |
 | **Apple** | [Silicon Photonics Process Integration Engineer](https://jobs.apple.com/en-us/details/200693031) | Cupertino, CA | 4d |
 | **AMAX** | [Junior System Engineer](https://apply.workable.com/amax-1/j/C8FD3B365F/apply) | Fremont, CA | 4d |
 | **Keysight Technologies** | [IC Test Engineer](https://jobs.keysight.com/jobs/55322?icims=1) | Santa Rosa, CA | 4d |
@@ -1122,7 +1122,7 @@ _+289 more not shown_
 | **Apple** | [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosyst…](https://jobs.apple.com/en-us/details/200692907) | San Diego, CA | 4d |
 | **Boeing** | [ASIC / FPGA Design Verification Engineer (Master's)](https://go.vansh.nyc/19S) 🇺🇸 | El Segundo, CA | 4d |
 | **Raytheon Technologies** | [Embedded Security Software Engineer I](https://go.vansh.nyc/1e1) 🇺🇸 | Tewksbury, MA | 4d |
-| **Bosch Home Comfort** | [Software Engineer New Grad](https://jobs.smartrecruiters.com/BoschGroup/744000159194500) | Nuneaton, UK | 4d |
+| **Bosch Home Comfort** | [Software Engineer New Grad](https://jobs.smartrecruiters.com/BoschGroup/744000159194500) | Nuneaton, UK | 5d |
 | **Qualcomm** | [Associate Calibration Engineer - Calibration Engineering](https://qualcomm.eightfold.ai/careers/job/446721831785) | San Diego, CA | 5d |
 | **Amazon** | [Software Development Engineer, Robotics](https://go.vansh.nyc/19D) | Austin, TX, Bellevue, WA +2 | 5d |
 | **ASML** | [System Integration and Test Engineer](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00356216) | San Diego, CA | 5d |
@@ -1134,11 +1134,11 @@ _+289 more not shown_
 | **Teledyne** | [Component Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---El-Segundo-CA/Component-Engineer_REQ37241-1) | El Segundo, CA | 5d |
 | **The Aerospace Corporation** | [Electronics Technology Specialist](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Electronics-Technology-Specialist-PMP_R017093) | El Segundo, CA | 5d |
 | **Analogue Insight** | [Graduate Digital Design Engineer](https://analogueinsight.careers.hibob.com/jobs/03aa2997-29f6-403e-a342-ebd7fab09731) | Remote in UK | 5d |
-| **Analogue Insight** | [Graduate Analog Design Engineer](https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67) | Remote in UK | 5d |
-| **Analogue Insight** | [Custom Layout Engineer Graduate](https://analogueinsight.careers.hibob.com/jobs/37087e78-8866-45b4-b36e-8c24290b9ec2) | Remote in UK | 5d |
+| **Analogue Insight** | [Graduate Analog Design Engineer](https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67) | Remote in UK | 6d |
+| **Analogue Insight** | [Custom Layout Engineer Graduate](https://analogueinsight.careers.hibob.com/jobs/37087e78-8866-45b4-b36e-8c24290b9ec2) | Remote in UK | 6d |
 | **Amazon** | [New Grad 2027: ASIC Engineer I, Annapurna Labs](https://go.vansh.nyc/17n) | Cupertino, CA | 6d |
 
-_+215 more not shown_
+_+211 more not shown_
 
 <a id="newgrad-other"></a>
 
@@ -1151,11 +1151,11 @@ _+215 more not shown_
 | **Deloitte** | [New Grad 2027: Tax Technology Services Consultant](https://go.vansh.nyc/1fO) | Atlanta, GA | 3d |
 | **LexisNexis Risk Solutions** | [New Grad 2027: Tech Accelerate Program](https://go.vansh.nyc/1eb) | Alpharetta, GA | 3d |
 | **NVIDIA** | [GPU System and Scheduling Architect (Master's)](https://go.vansh.nyc/1ea) | Santa Clara, CA | 3d |
-| **Decagon** | [New Grad 2027: Member of Technical Staff](https://go.vansh.nyc/19g) | San Francisco, CA | 4d |
-| **Fireworks AI** | [New Grad 2027: Member of Technical Staff](https://go.vansh.nyc/19h) | San Mateo, CA | 4d |
+| **Decagon** | [New Grad 2027: Member of Technical Staff](https://go.vansh.nyc/19g) | San Francisco, CA | 5d |
+| **Fireworks AI** | [New Grad 2027: Member of Technical Staff](https://go.vansh.nyc/19h) | San Mateo, CA | 5d |
 | **Ambral** | [New Grad: Member of Technical Staff](https://go.vansh.nyc/19f) | New York, NY | 7d |
 | **Rockwell Automation** | [New Grad 2027: EDGE, Information Technology Rotational Program](https://go.vansh.nyc/13X) | Milwaukee, WI | 7d |
-| **ID.me** | [New Grad 2027: General Program](https://go.vansh.nyc/W3) | Mountain View, CA | 10d |
+| **ID.me** | [New Grad 2027: General Program](https://go.vansh.nyc/W3) | Mountain View, CA | 11d |
 | **Cerebras** | [CoDesign & NextGen](https://go.vansh.nyc/Vo) | Sunnyvale, CA | 11d |
 | **Bell Canada** | [New Grad 2027: Technology Services, Delivery, Excellence & Architecture](https://go.vansh.nyc/TB) | Verdun, Canada | 19d |
 | **Bell Canada** | [New Grad 2027: Technology Services, Product and Initiative Management](https://go.vansh.nyc/UP) | Verdun, Canada | 19d |
